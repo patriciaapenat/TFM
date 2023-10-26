@@ -1,0 +1,250 @@
+PAIS_ISO3,PAIS_ISO2,PAIS_NOM,COD_CONTINENTE,CONTINENTE,OMS_REGION,DESC_OMS_REGION,PAIS_NOM_2
+AGO,AO,Angola,AF,Africa,AFRO,Africa,Angola
+BDI,BI,Burundi,AF,Africa,AFRO,Africa,Burundi
+BEN,BJ,Benin,AF,Africa,AFRO,Africa,Benin
+BFA,BF,Burkina Faso,AF,Africa,AFRO,Africa,Burkina Faso
+BWA,BW,Botswana,AF,Africa,AFRO,Africa,Botswana
+CAF,CF,Central African Republic,AF,Africa,AFRO,Africa,Central African Republic
+CIV,CI,Cote d'Ivoire,AF,Africa,AFRO,Africa,Côte d’Ivoire
+CMR,CM,Cameroon,AF,Africa,AFRO,Africa,Cameroon
+COD,CD,Congo (Kinshasa),AF,Africa,AFRO,Africa,Democratic Republic of the Congo
+COG,CG,Congo (Brazzaville),AF,Africa,AFRO,Africa,Congo
+COM,KM,Comoros,AF,Africa,AFRO,Africa,Comoros
+CPV,CV,Cape Verde,AF,Africa,AFRO,Africa,Cabo Verde
+DJI,DJ,Djibouti,AF,Africa,EMRO,Mediterráneo Oriental,Djibouti
+DZA,DZ,Algeria,AF,Africa,AFRO,Africa,Algeria
+EGY,EG,Egypt,AF,Africa,EMRO,Mediterráneo Oriental,Egypt
+ERI,ER,Eritrea,AF,Africa,AFRO,Africa,Eritrea
+ESH,EH,Western Sahara,AF,Africa,Z999,Sin determinar,Western Sahara
+ETH,ET,Ethiopia,AF,Africa,AFRO,Africa,Ethiopia
+GAB,GA,Gabon,AF,Africa,AFRO,Africa,Gabon
+GHA,GH,Ghana,AF,Africa,AFRO,Africa,Ghana
+GIN,GN,Guinea,AF,Africa,AFRO,Africa,Guinea
+GMB,GM,Gambia,AF,Africa,AFRO,Africa,Gambia
+GNB,GW,Guinea-Bissau,AF,Africa,AFRO,Africa,Guinea-Bissau
+GNQ,GQ,Equatorial Guinea,AF,Africa,AFRO,Africa,Equatorial Guinea
+KEN,KE,Kenya,AF,Africa,AFRO,Africa,Kenya
+LBR,LR,Liberia,AF,Africa,AFRO,Africa,Liberia
+LBY,LY,Libya,AF,Africa,EMRO,Mediterráneo Oriental,Libya
+LSO,LS,Lesotho,AF,Africa,AFRO,Africa,Lesotho
+MAR,MA,Morocco,AF,Africa,EMRO,Mediterráneo Oriental,Morocco
+MDG,MG,Madagascar,AF,Africa,AFRO,Africa,Madagascar
+MLI,ML,Mali,AF,Africa,AFRO,Africa,Mali
+MOZ,MZ,Mozambique,AF,Africa,AFRO,Africa,Mozambique
+MRT,MR,Mauritania,AF,Africa,AFRO,Africa,Mauritania
+MUS,MU,Mauritius,AF,Africa,AFRO,Africa,Mauritius
+MWI,MW,Malawi,AF,Africa,AFRO,Africa,Malawi
+MYT,YT,Mayotte,AF,Africa,AFRO,Africa,Mayotte
+NAM,NM,Namibia,AF,Africa,AFRO,Africa,Namibia
+NER,NE,Niger,AF,Africa,AFRO,Africa,Niger
+NGA,NG,Nigeria,AF,Africa,AFRO,Africa,Nigeria
+REU,RE,Reunion,AF,Africa,AFRO,Africa,Réunion
+RWA,RW,Rwanda,AF,Africa,AFRO,Africa,Rwanda
+SDN,SD,Sudan,AF,Africa,EMRO,Mediterráneo Oriental,South Sudan
+SEN,SN,Senegal,AF,Africa,AFRO,Africa,Senegal
+SHN,SH,Saint Helena,AF,Africa,AFRO,Africa,Saint Helena Ascension and Tristan da Cunha
+SLE,SL,Sierra Leone,AF,Africa,AFRO,Africa,Sierra Leone
+SOM,SO,Somalia,AF,Africa,EMRO,Mediterráneo Oriental,Somalia
+STP,ST,Sao Tome and Principe,AF,Africa,AFRO,Africa,Sao Tome and Principe
+SWZ,SZ,Swaziland,AF,Africa,AFRO,Africa,Eswatini
+SYC,SC,Seychelles,AF,Africa,AFRO,Africa,Seychelles
+TCD,TD,Chad,AF,Africa,AFRO,Africa,Chad
+TGO,TG,Togo,AF,Africa,AFRO,Africa,Togo
+TUN,TN,Tunisia,AF,Africa,EMRO,Mediterráneo Oriental,Tunisia
+TZA,TZ,Tanzania,AF,Africa,AFRO,Africa,United Republic of Tanzania
+UGA,UG,Uganda,AF,Africa,AFRO,Africa,Uganda
+ZAF,ZA,South Africa,AF,Africa,AFRO,Africa,South Africa
+ZMB,ZM,Zambia,AF,Africa,AFRO,Africa,Zambia
+ZWE,ZW,Zimbabwe,AF,Africa,AFRO,Africa,Zimbabwe
+ATA,AQ,Antarctica,AN,Antartida,Z999,Sin determinar,Antarctica
+ATF,TF,French Southern Territories,AN,Antartida,Z999,Sin determinar,French Southern Territories
+BVT,BV,Bouvet Island,AN,Antartida,Z999,Sin determinar,Bouvet Island
+HMD,HM,Heard Island and McDonald Mcdonald Islands,AN,Antartida,Z999,Sin determinar,Heard Island and McDonald Mcdonald Islands
+SGS,GS,South Georgia and the Islands,AN,Antartida,Z999,Sin determinar,South Georgia and the Islands
+AFG,AF,Afghanistan,AS,Asia,EMRO,Mediterráneo Oriental,Afghanistan
+ARE,AE,United Arab Emirates,AS,Asia,EMRO,Mediterráneo Oriental,United Arab Emirates
+ARM,AM,Armenia,AS,Asia,EURO,Europa,Armenia
+AZE,AZ,Azerbaijan,AS,Asia,EURO,Europa,Azerbaijan
+BGD,BD,Bangladesh,AS,Asia,SEARO,Sudeste Asiático,Bangladesh
+BHR,BH,Bahrain,AS,Asia,EMRO,Mediterráneo Oriental,Bahrain
+BRN,BN,Brunei,AS,Asia,WPRO,Pacífico Occidental,Brunei Darussalam
+BTN,BT,Bhutan,AS,Asia,SEARO,Sudeste Asiático,Bhutan
+CCK,CC,Cocos (Keeling) Islands,AS,Asia,SEARO,Sudeste Asiático,Cocos (Keeling) Islands
+CHN,CN,China,AS,Asia,WPRO,Pacífico Occidental,China
+CXR,CX,Christmas Island,AS,Asia,Z999,Sin determinar,Christmas Island
+CYP,CY,Cyprus,AS,Asia,EURO,Europa,Cyprus
+GEO,GE,Georgia,AS,Asia,EURO,Europa,Georgia
+HKG,HK,Hong Kong,AS,Asia,SEARO,Sudeste Asiático,Hong Kong
+IDN,ID,Indonesia,AS,Asia,SEARO,Sudeste Asiático,Indonesia
+IND,IN,India,AS,Asia,SEARO,Sudeste Asiático,India
+IOT,IO,British Indian Ocean Territory,AS,Asia,SEARO,Sudeste Asiático,British Indian Ocean Territory
+IRN,IR,Iran,AS,Asia,EMRO,Mediterráneo Oriental,Iran (Islamic Republic of)
+IRQ,IQ,Iraq,AS,Asia,EMRO,Mediterráneo Oriental,Iraq
+ISR,IL,Israel,AS,Asia,EURO,Europa,Israel
+JOR,JO,Jordan,AS,Asia,EMRO,Mediterráneo Oriental,Jordan
+JPN,JP,Japan,AS,Asia,WPRO,Pacífico Occidental,Japan
+KAZ,KZ,Kazakhstan,AS,Asia,EURO,Europa,Kazakhstan
+KGZ,KG,Kyrgyzstan,AS,Asia,EURO,Europa,Kyrgyzstan
+KHM,KH,Cambodia,AS,Asia,WPRO,Pacífico Occidental,Cambodia
+KOR,KR,South Korea,AS,Asia,WPRO,Pacífico Occidental,Republic of Korea
+KWT,KW,Kuwait,AS,Asia,EMRO,Mediterráneo Oriental,Kuwait
+LAO,LA,Laos,AS,Asia,WPRO,Pacífico Occidental,Lao People's Democratic Republic
+LBN,LB,Lebanon,AS,Asia,EMRO,Mediterráneo Oriental,Lebanon
+LKA,LK,Sri Lanka,AS,Asia,SEARO,Sudeste Asiático,Sri Lanka
+MAC,MO,Macao,AS,Asia,SEARO,Sudeste Asiático,Macao
+MDV,MV,Maldives,AS,Asia,SEARO,Sudeste Asiático,Maldives
+MMR,MM,Myanmar,AS,Asia,SEARO,Sudeste Asiático,Myanmar
+MNG,MN,Mongolia,AS,Asia,WPRO,Pacífico Occidental,Mongolia
+MYS,MY,Malaysia,AS,Asia,WPRO,Pacífico Occidental,Malaysia
+NPL,NP,Nepal,AS,Asia,SEARO,Sudeste Asiático,Nepal
+OMN,OM,Oman,AS,Asia,EMRO,Mediterráneo Oriental,Oman
+PAK,PK,Pakistan,AS,Asia,EMRO,Mediterráneo Oriental,Pakistan
+PHL,PH,Philippines,AS,Asia,WPRO,Pacífico Occidental,Philippines
+PRK,KP,North Korea,AS,Asia,SEARO,Sudeste Asiático,Democratic People's Republic of Korea
+PSE,PS,Palestine,AS,Asia,EMRO,Mediterráneo Oriental,occupied Palestinian territory including east Jerusalem
+QAT,QA,Qatar,AS,Asia,EMRO,Mediterráneo Oriental,Qatar
+SAU,SA,Saudi Arabia,AS,Asia,EMRO,Mediterráneo Oriental,Saudi Arabia
+SGP,SG,Singapore,AS,Asia,WPRO,Pacífico Occidental,Singapore
+SYR,SY,Syria,AS,Asia,EMRO,Mediterráneo Oriental,Syrian Arab Republic
+THA,TH,Thailand,AS,Asia,SEARO,Sudeste Asiático,Thailand
+TJK,TJ,Tajikistan,AS,Asia,EURO,Europa,Tajikistan
+TKM,TM,Turkmenistan,AS,Asia,EURO,Europa,Turkmenistan
+TLS,TL,East Timor,AS,Asia,SEARO,Sudeste Asiático,Timor-Leste
+TWN,TW,Taiwan,AS,Asia,Z999,Sin determinar,Taiwan
+UZB,UZ,Uzbekistan,AS,Asia,EURO,Europa,Uzbekistan
+VNM,VN,Vietnam,AS,Asia,WPRO,Pacífico Occidental,Viet Nam
+YEM,YE,Yemen,AS,Asia,EMRO,Mediterráneo Oriental,Yemen
+ALB,AL,Albania,EU,Europe,EURO,Europa,Albania
+AND,AD,Andorra,EU,Europe,EURO,Europa,Andorra
+ANT,AN,Netherlands Antilles,EU,Europe,EURO,Europa,Netherlands Antilles
+AUT,AT,Austria,EU,Europe,EURO,Europa,Austria
+BEL,BE,Belgium,EU,Europe,EURO,Europa,Belgium
+BGR,BG,Bulgaria,EU,Europe,EURO,Europa,Bulgaria
+BLR,BY,Belarus,EU,Europe,EURO,Europa,Belarus
+CHE,CH,Switzerland,EU,Europe,EURO,Europa,Switzerland
+CZE,CZ,Czech Republic,EU,Europe,EURO,Europa,Czechia
+DEU,DE,Germany,EU,Europe,EURO,Europa,Germany
+DNK,DK,Denmark,EU,Europe,EURO,Europa,Denmark
+ESP,ES,Spain,EU,Europe,EURO,Europa,Spain
+EST,EE,Estonia,EU,Europe,EURO,Europa,Estonia
+FIN,FI,Finland,EU,Europe,EURO,Europa,Finland
+FRA,FR,France,EU,Europe,EURO,Europa,France
+FRO,FO,Faroe Islands,EU,Europe,EURO,Europa,Faroe Islands
+GBR,GB,United Kingdom,EU,Europe,EURO,Europa,The United Kingdom
+GGY,GG,Guernsey,EU,Europe,EURO,Europa,Guernsey
+GIB,GI,Gibraltar,EU,Europe,EURO,Europa,Gibraltar
+GRC,GR,Greece,EU,Europe,EURO,Europa,Greece
+HRV,HR,Croatia,EU,Europe,EURO,Europa,Croatia
+HUN,HU,Hungary,EU,Europe,EURO,Europa,Hungary
+IMN,IM,Isle of Man,EU,Europe,EURO,Europa,Isle of Man
+IRL,IE,Ireland,EU,Europe,EURO,Europa,Ireland
+ISL,IS,Iceland,EU,Europe,EURO,Europa,Iceland
+ITA,IT,Italy,EU,Europe,EURO,Europa,Italy
+JEY,JE,Jersey,EU,Europe,EURO,Europa,Jersey
+LIE,LI,Liechtenstein,EU,Europe,EURO,Europa,Liechtenstein
+LTU,LT,Lithuania,EU,Europe,EURO,Europa,Lithuania
+LUX,LU,Luxembourg,EU,Europe,EURO,Europa,Luxembourg
+LVA,LV,Latvia,EU,Europe,EURO,Europa,Latvia
+MCO,MC,Monaco,EU,Europe,EURO,Europa,Monaco
+MDA,MD,Moldova,EU,Europe,EURO,Europa,Republic of Moldova
+MKD,MK,Macedonia,EU,Europe,EURO,Europa,North Macedonia
+MLT,MT,Malta,EU,Europe,EURO,Europa,Malta
+MNE,ME,Montenegro,EU,Europe,EURO,Europa,Montenegro
+NLD,NL,Netherlands,EU,Europe,EURO,Europa,Netherlands
+NOR,NO,Norway,EU,Europe,EURO,Europa,Norway
+POL,PL,Poland,EU,Europe,EURO,Europa,Poland
+PRT,PT,Portugal,EU,Europe,EURO,Europa,Portugal
+ROU,RO,Romania,EU,Europe,EURO,Europa,Romania
+RUS,RU,Russia,EU,Europe,EURO,Europa,Russian Federation
+SJM,SJ,Svalbard,EU,Europe,EURO,Europa,Svalbard
+SMR,SM,San Marino,EU,Europe,EURO,Europa,San Marino
+SRB,RS,Serbia,EU,Europe,EURO,Europa,Serbia
+SVK,SK,Slovakia,EU,Europe,EURO,Europa,Slovakia
+SVN,SI,Slovenia,EU,Europe,EURO,Europa,Slovenia
+SWE,SE,Sweden,EU,Europe,EURO,Europa,Sweden
+TUR,TR,Turkey,EU,Europe,EURO,Europa,Türkiye
+UKR,UA,Ukraine,EU,Europe,EURO,Europa,Ukraine
+VAT,VA,Holy See (Vatican City State),EU,Europe,Z999,Sin determinar,Holy See
+ABW,AW,Aruba,NA,North America,AMRO,América,Aruba
+AIA,AI,Anguilla,NA,North America,AMRO,América,Anguilla
+ATG,AG,Antigua and Barbuda,NA,North America,AMRO,América,Antigua and Barbuda
+BHS,BS,Bahamas,NA,North America,AMRO,América,Bahamas
+BIH,BA,Bosnia and Herzegovina,NA,Europe,EURO,Europa,Bosnia and Herzegovina
+BLZ,BZ,Belize,NA,North America,AMRO,América,Belize
+BMU,BM,Bermuda,NA,North America,AMRO,América,Bermuda
+BRB,BB,Barbados,NA,North America,AMRO,América,Barbados
+CAN,CA,Canada,NA,North America,AMRO,América,Canada
+CRI,CR,Costa Rica,NA,North America,AMRO,América,Costa Rica
+CUB,CU,Cuba,NA,North America,AMRO,América,Cuba
+CYM,KY,Cayman Islands,NA,North America,AMRO,América,Cayman Islands
+DMA,DM,Dominica,NA,North America,AMRO,América,Dominica
+DOM,DO,Dominican Republic,NA,North America,AMRO,América,Dominican Republic
+GLP,GP,Guadeloupe,NA,North America,AMRO,América,Guadeloupe
+GRD,GD,Grenada,NA,North America,AMRO,América,Grenada
+GRL,GL,Greenland,NA,North America,EURO,Europa,Greenland
+GTM,GT,Guatemala,NA,North America,AMRO,América,Guatemala
+HND,HN,Honduras,NA,North America,AMRO,América,Honduras
+HTI,HT,Haiti,NA,North America,AMRO,América,Haiti
+JAM,JM,Jamaica,NA,North America,AMRO,América,Jamaica
+KNA,KN,Saint Kitts and Nevis,NA,North America,AMRO,América,Saint Kitts and Nevis
+MSR,MS,Montserrat,NA,North America,AMRO,América,Montserrat
+SPM,PM,Saint Pierre and Miquelon,NA,North America,AMRO,América,Saint Pierre and Miquelon
+VIR,VI,US Virgin Islands,NA,North America,Z999,Sin determinar,United States Virgin Islands
+ASM,AS,American Samoa,OC,Oceania,WPRO,Pacífico Occidental,American Samoa
+AUS,AU,Australia,OC,Oceania,WPRO,Pacífico Occidental,Australia
+COK,CK,Cook Islands,OC,Oceania,WPRO,Pacífico Occidental,Cook Islands
+FJI,FJ,Fiji,OC,Oceania,WPRO,Pacífico Occidental,Fiji
+FSM,FM,Micronesia,OC,Oceania,WPRO,Pacífico Occidental,Micronesia (Federated States of)
+GUM,GU,Guam,OC,Oceania,WPRO,Pacífico Occidental,Guam
+KIR,KI,Kiribati,OC,Oceania,WPRO,Pacífico Occidental,Kiribati
+MHL,MH,Marshall Islands,OC,Oceania,WPRO,Pacífico Occidental,Marshall Islands
+MNP,MP,Northern Mariana Islands,OC,Oceania,WPRO,Pacífico Occidental,Northern Mariana Islands (Commonwealth of the)
+NCL,NC,New Caledonia,OC,Oceania,WPRO,Pacífico Occidental,New Caledonia
+NFK,NF,Norfolk Island,OC,Oceania,Z999,Sin determinar,Norfolk Island
+NIU,NU,Niue,OC,Oceania,WPRO,Pacífico Occidental,Niue
+NRU,NR,Nauru,OC,Oceania,WPRO,Pacífico Occidental,Nauru
+NZL,NZ,New Zealand,OC,Oceania,WPRO,Pacífico Occidental,New Zealand
+PCN,PN,Pitcairn,OC,Oceania,WPRO,Pacífico Occidental,Pitcairn Islands
+PLW,PW,Palau,OC,Oceania,WPRO,Pacífico Occidental,Palau
+PNG,PG,Papua New Guinea,OC,Oceania,WPRO,Pacífico Occidental,Papua New Guinea
+PYF,PF,French Polynesia,OC,Oceania,WPRO,Pacífico Occidental,French Polynesia
+SLB,SB,Solomon Islands,OC,Oceania,WPRO,Pacífico Occidental,Solomon Islands
+TKL,TK,Tokelau,OC,Oceania,WPRO,Pacífico Occidental,Tokelau
+TON,TO,Tonga,OC,Oceania,WPRO,Pacífico Occidental,Tonga
+TUV,TV,Tuvalu,OC,Oceania,WPRO,Pacífico Occidental,Tuvalu
+UMI,UM,United States Minor Outlying Islands,OC,Oceania,Z999,Sin determinar,United States Minor Outlying Islands
+VUT,VU,Vanuatu,OC,Oceania,WPRO,Pacífico Occidental,Vanuatu
+WLF,WF,Wallis and Futuna,OC,Oceania,WPRO,Pacífico Occidental,Wallis and Futuna
+WSM,WS,Samoa,OC,Oceania,WPRO,Pacífico Occidental,Samoa
+ARG,AR,Argentina,SA,South America,AMRO,América,Argentina
+BOL,BO,Bolivia,SA,South America,AMRO,América,Bolivia (Plurinational State of)
+BRA,BR,Brazil,SA,South America,AMRO,América,Brazil
+CHL,CL,Chile,SA,South America,AMRO,América,Chile
+COL,CO,Colombia,SA,South America,AMRO,América,Colombia
+CUW,CW,Curaçao,SA,South America,AMRO,América,Curaçao
+ECU,EC,Ecuador,SA,South America,AMRO,América,Ecuador
+FLK,FK,Falkland Islands (Malvinas),SA,South America,AMRO,América,Falkland Islands (Malvinas)
+GUF,GF,French Guiana,SA,South America,AMRO,América,French Guiana
+GUY,GY,Guyana,SA,South America,AMRO,América,Guyana
+PER,PE,Peru,SA,South America,AMRO,América,Peru
+PRY,PY,Paraguay,SA,South America,AMRO,América,Paraguay
+SUR,SR,Suriname,SA,South America,AMRO,América,Suriname
+URY,UY,Uruguay,SA,South America,AMRO,América,Uruguay
+VEN,VE,Venezuela,SA,South America,AMRO,América,Venezuela (Bolivarian Republic of)
+Z99,Z9,Sin determinar,Z9,Sin determinar,Z999,Sin determinar,Sin determinar
+LCA,LC,Saint Lucia,NA,North America,AMRO,América,Saint Lucia
+MEX,MX,Mexico,NA,North America,AMRO,América,Mexico
+MTQ,MQ,Martinique,NA,North America,AMRO,América,Martinique
+NIC,NI,Nicaragua,NA,North America,AMRO,América,Nicaragua
+PAN,PA,Panama,NA,North America,AMRO,América,Panama
+PRI,PR,Puerto Rico,NA,North America,AMRO,América,Puerto Rico
+SLV,SV,El Salvador,NA,North America,AMRO,América,El Salvador
+SSD,SS,Sudán del Sur,AF,Africa,AFRO,Africa,Sudán del Sur
+TCA,TC,Turks and Caicos Islands,NA,North America,AMRO,América,Turks and Caicos Islands
+TTO,TT,Trinidad and Tobago,NA,North America,AMRO,América,Trinidad and Tobago
+USA,US,United States,NA,North America,AMRO,América,United States of America
+VCT,VC,Saint Vincent and the Grenadines,NA,North America,AMRO,América,Saint Vincent and the Grenadines
+VGB,VG,British Virgin Islands,NA,North America,AMRO,América,British Virgin Islands
+BLM,BL,San Bartolomé,NA,North America,AMRO,América,Saint Barthélemy
+MAF,MF,San Martín,NA,North America,AMRO,América,Saint Martin
+SXM,SX,San Martín,NA,North America,AMRO,América,San Martín

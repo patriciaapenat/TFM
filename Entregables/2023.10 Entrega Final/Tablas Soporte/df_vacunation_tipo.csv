@@ -1,0 +1,1104 @@
+PAIS_ISO3,CONTINENTE,ISO_continente,NOMBRE_VACUNA,NOMBRE_TIPO_VACUNA,NOMBRE_COMPAÑIA,FECHA_AUTORIZACION,FECHA_INICIO_VACUNACION,FUENTE_DATOS
+FRO,Europe,EU,Moderna - mRNA-1273,mRNA-1273,Moderna,0,0,OWID
+FRO,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,OWID
+SHN,Africa,AF,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
+GRL,North America,NA,Moderna - mRNA-1273,mRNA-1273,Moderna,0,0,OWID
+JEY,Europe,EU,Moderna - mRNA-1273,mRNA-1273,Moderna,0,0,OWID
+JEY,Europe,EU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
+JEY,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,OWID
+GGY,Europe,EU,Moderna - mRNA-1273,mRNA-1273,Moderna,0,0,OWID
+GGY,Europe,EU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
+GGY,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,OWID
+TUR,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,OWID
+TUR,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,OWID
+TUR,Asia,AS,Turkovac,Sin Determinar,Sin Determinar,0,0,OWID
+RUS,Europe,EU,SRCVB - EpiVacCorona,EpiVacCorona,State Research Center of Virology & Biotechnology,0,0,OWID
+BIH,Europe,EU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
+BIH,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,OWID
+BIH,Europe,EU,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,OWID
+IMN,Europe,EU,Moderna - mRNA-1273,mRNA-1273,Moderna,0,0,OWID
+IMN,Europe,EU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
+IMN,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,OWID
+GIB,Europe,EU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
+GIB,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,OWID
+FLK,South America,SA,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
+TKM,Asia,AS,Anhui ZL - Zifivax,Zifivax,Anhui Zhifei Longcom Biopharmaceutical,0,24-02-2021,REPORTING
+CHN,Asia,AS,Anhui ZL - Zifivax,Zifivax,Anhui Zhifei Longcom Biopharmaceutical,17-03-2021,17-03-2021,REPORTING
+UZB,Asia,AS,Anhui ZL - Zifivax,Zifivax,Anhui Zhifei Longcom Biopharmaceutical,0,28-04-2021,REPORTING
+CHN,Asia,AS,Shenzhen - LV-SMENP-DC,LV-SMENP-DC,Shenzhen GenoImmune Medical Institute,14-05-2021,01-06-2021,REPORTING
+DEU,Europe,EU,Valneva - VLA2001,VLA2001,Valneva,0,14-09-2022,REPORTING
+AUT,Europe,EU,Valneva - VLA2001,VLA2001,Valneva,0,24-08-2022,REPORTING
+CUB,North America,NA,Finlay - Soberana-02,Soberana-02,Instituto Finlay de Vacunas,0,0,REPORTING
+NIC,North America,NA,Finlay - Soberana-02,Soberana-02,Instituto Finlay de Vacunas,0,25-10-2021,REPORTING
+IRN,Asia,AS,Finlay - Soberana-02,Soberana-02,Instituto Finlay de Vacunas,0,0,REPORTING
+VEN,South America,SA,Finlay - Soberana-02,Soberana-02,Instituto Finlay de Vacunas,0,0,REPORTING
+CHN,Asia,AS,IMB - Covidful,Covidful,Insitute of Medical Biology,09-06-2021,09-06-2021,REPORTING
+ARM,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,27-01-2021,REPORTING
+VNM,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,23-03-2021,01-08-2021,REPORTING
+YEM,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,0,REPORTING
+KAZ,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,07-04-2021,REPORTING
+TKM,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,24-02-2021,REPORTING
+OMN,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,14-02-2021,29-12-2020,REPORTING
+PHL,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,19-03-2021,04-05-2021,REPORTING
+LAO,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,03-02-2021,09-02-2021,REPORTING
+GIN,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,27-01-2021,05-03-2021,REPORTING
+GHA,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,09-02-2021,02-03-2021,REPORTING
+SYR,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,03-02-2021,01-04-2021,REPORTING
+CIV,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,01-03-2021,REPORTING
+VEN,South America,SA,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,01-01-2021,22-02-2021,REPORTING
+LBN,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,16-12-2020,14-02-2021,REPORTING
+LKA,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,04-03-2021,06-05-2021,REPORTING
+PRY,South America,SA,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,22-12-2020,22-02-2021,REPORTING
+NIC,North America,NA,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,02-02-2021,03-03-2021,REPORTING
+MDV,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,30-01-2021,0,REPORTING
+JOR,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,13-12-2020,13-01-2021,REPORTING
+IRN,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,27-01-2021,09-02-2021,REPORTING
+KWT,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,0,REPORTING
+MNE,Europe,EU,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,24-02-2021,REPORTING
+BGD,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,27-04-2021,0,REPORTING
+SRB,Europe,EU,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,06-01-2021,REPORTING
+UZB,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,28-04-2021,REPORTING
+MNG,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,06-02-2021,19-03-2021,REPORTING
+PAK,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,20-01-2021,03-02-2021,REPORTING
+SAU,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,0,REPORTING
+DZA,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,10-01-2021,30-01-2021,REPORTING
+RWA,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,31-03-2021,0,REPORTING
+SDN,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,0,REPORTING
+IND,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,12-04-2021,14-05-2021,REPORTING
+ALB,Europe,EU,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,24-03-2021,REPORTING
+LBY,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,24-02-2021,11-04-2021,REPORTING
+VCT,North America,NA,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,30-01-2021,01-02-2021,REPORTING
+HND,North America,NA,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,19-02-2021,22-04-2021,REPORTING
+ATG,North America,NA,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,24-07-2021,16-08-2021,REPORTING
+NPL,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,20-04-2021,0,REPORTING
+MKD,Europe,EU,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,10-03-2021,REPORTING
+BLR,Europe,EU,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,03-02-2021,REPORTING
+ARG,South America,SA,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,23-12-2020,29-12-2020,REPORTING
+SYC,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,0,REPORTING
+GTM,North America,NA,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,17-05-2021,REPORTING
+QAT,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,0,REPORTING
+IRQ,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,29-12-2020,02-03-2021,REPORTING
+BHR,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,03-11-2020,04-11-2020,REPORTING
+GUY,South America,SA,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,02-04-2021,02-04-2021,REPORTING
+SOM,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,0,REPORTING
+ARE,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,0,REPORTING
+BOL,South America,SA,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,30-01-2021,REPORTING
+MAR,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,0,REPORTING
+KGZ,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,21-04-2021,REPORTING
+HUN,Europe,EU,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,10-02-2021,REPORTING
+TUN,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,11-01-2021,13-03-2021,REPORTING
+MDA,Europe,EU,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,05-05-2021,REPORTING
+AFG,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,0,REPORTING
+SVK,Europe,EU,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,30-06-2021,REPORTING
+MEX,North America,NA,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,09-02-2021,24-02-2021,REPORTING
+TJK,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,18-08-2021,REPORTING
+COG,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,03-03-2021,23-03-2021,REPORTING
+EGY,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,30-12-2020,24-01-2021,REPORTING
+GAB,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,0,REPORTING
+ZWE,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,0,REPORTING
+PSE,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,25-01-2021,02-02-2021,REPORTING
+DJI,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,22-02-2021,15-03-2021,REPORTING
+MYS,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,0,REPORTING
+SMR,Europe,EU,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,24-02-2021,REPORTING
+AZE,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,19-05-2021,REPORTING
+KAZ,Asia,AS,RIBSP - QazVac,QazVac,Research Institute for Biological Safety Problems,0,28-04-2021,REPORTING
+TKM,Asia,AS,RIBSP - QazVac,QazVac,Research Institute for Biological Safety Problems,0,24-02-2021,REPORTING
+KGZ,Asia,AS,RIBSP - QazVac,QazVac,Research Institute for Biological Safety Problems,0,29-09-2021,REPORTING
+ETH,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),05-03-2021,13-03-2021,REPORTING
+ARM,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,26-05-2021,REPORTING
+TCD,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),07-05-2021,04-06-2021,REPORTING
+VNM,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),03-06-2021,10-07-2021,REPORTING
+MDG,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),05-08-2021,0,REPORTING
+BRB,North America,NA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,30-06-2021,REPORTING
+LAO,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),16-06-2021,25-11-2020,REPORTING
+VUT,Oceania,OC,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),02-06-2021,15-06-2021,REPORTING
+ZMB,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,REPORTING
+SUR,South America,SA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),28-06-2021,10-07-2021,REPORTING
+CIV,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),10-06-2021,0,REPORTING
+VEN,South America,SA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),12-03-2021,08-03-2021,REPORTING
+LBN,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),16-12-2020,14-02-2021,REPORTING
+PHL,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),07-06-2021,30-08-2021,REPORTING
+SLV,North America,NA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),03-06-2021,22-06-2021,REPORTING
+GIN,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),12-02-2021,05-03-2021,REPORTING
+DOM,North America,NA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,REPORTING
+BTN,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),16-03-2021,20-07-2021,REPORTING
+GMB,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,10-03-2021,REPORTING
+SYR,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),03-02-2021,01-04-2021,REPORTING
+KIR,Oceania,OC,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),29-06-2021,03-09-2021,REPORTING
+PNG,Oceania,OC,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),25-05-2021,28-06-2021,REPORTING
+MDV,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),17-03-2021,22-03-2021,REPORTING
+JOR,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),13-12-2020,13-01-2021,REPORTING
+IRN,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),27-01-2021,09-02-2021,REPORTING
+NER,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),23-02-2021,29-03-2021,REPORTING
+CMR,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),01-04-2021,12-04-2021,REPORTING
+LKA,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),08-05-2021,05-04-2021,REPORTING
+BFA,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),20-09-2021,0,REPORTING
+PRY,South America,SA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),30-12-2020,15-03-2021,REPORTING
+NIC,North America,NA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,01-04-2022,REPORTING
+KWT,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),13-12-2020,28-12-2020,REPORTING
+BLZ,North America,NA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),17-05-2021,18-05-2021,REPORTING
+MNE,Europe,EU,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,10-03-2021,REPORTING
+BGD,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),29-04-2021,25-05-2021,REPORTING
+SRB,Europe,EU,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,20-01-2021,REPORTING
+MNG,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),09-02-2021,10-03-2021,REPORTING
+PAK,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),20-01-2021,03-02-2021,REPORTING
+PRT,Europe,EU,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,23-12-2020,REPORTING
+SAU,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,REPORTING
+DZA,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),10-02-2021,0,REPORTING
+RWA,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),30-07-2021,0,REPORTING
+SDN,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),20-02-2021,09-03-2021,REPORTING
+LBY,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),24-02-2021,11-04-2021,REPORTING
+KEN,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,REPORTING
+ATG,North America,NA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,REPORTING
+GNB,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,02-04-2021,REPORTING
+NPL,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),16-02-2021,07-04-2021,REPORTING
+SLB,Oceania,OC,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),12-03-2021,21-05-2021,REPORTING
+MKD,Europe,EU,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,21-04-2021,REPORTING
+CHN,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),22-07-2020,22-07-2020,REPORTING
+BLR,Europe,EU,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,24-03-2021,REPORTING
+ARG,South America,SA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),21-02-2021,02-03-2021,REPORTING
+SYC,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,10-01-2021,REPORTING
+QAT,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,REPORTING
+SOM,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),22-02-2021,16-03-2021,REPORTING
+PER,South America,SA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),26-01-2021,09-02-2021,REPORTING
+ARE,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,REPORTING
+NAM,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,19-03-2021,REPORTING
+BOL,South America,SA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,02-05-2021,REPORTING
+IRQ,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),29-12-2020,02-03-2021,REPORTING
+BHR,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),03-11-2020,04-11-2020,REPORTING
+GNQ,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),01-02-2021,12-02-2021,REPORTING
+GUY,South America,SA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),25-02-2021,02-03-2021,REPORTING
+SGP,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,30-08-2021,REPORTING
+SEN,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),23-02-2021,23-02-2021,REPORTING
+TUN,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),11-01-2021,13-03-2021,REPORTING
+BRN,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),03-02-2021,03-04-2021,REPORTING
+TTO,North America,NA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,REPORTING
+MDA,Europe,EU,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,24-03-2021,REPORTING
+AFG,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),23-02-2021,22-02-2021,REPORTING
+COM,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),01-02-2021,10-04-2021,REPORTING
+SLE,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,15-03-2021,REPORTING
+MUS,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),18-03-2021,0,REPORTING
+KGZ,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,31-03-2021,REPORTING
+HUN,Europe,EU,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,24-02-2021,REPORTING
+MOZ,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),18-05-2021,0,REPORTING
+BDI,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),29-09-2021,18-10-2021,REPORTING
+THA,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),28-05-2021,25-06-2021,REPORTING
+COG,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),03-03-2021,23-03-2021,REPORTING
+EGY,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),30-12-2020,24-01-2021,REPORTING
+GAB,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,23-03-2021,REPORTING
+MAR,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),06-01-2021,28-01-2021,REPORTING
+TZA,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),08-08-2021,0,REPORTING
+MRT,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,26-03-2021,REPORTING
+JAM,North America,NA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),12-11-2021,13-12-2021,REPORTING
+DMA,North America,NA,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,11-03-2021,REPORTING
+IDN,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),29-04-2021,18-05-2021,REPORTING
+KHM,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),04-02-2021,10-02-2021,REPORTING
+MMR,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),12-02-2021,01-06-2021,REPORTING
+OMN,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,REPORTING
+ZWE,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,REPORTING
+PSE,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),25-01-2021,02-02-2021,REPORTING
+DJI,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),22-02-2021,15-03-2021,REPORTING
+MYS,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),16-07-2021,0,REPORTING
+YEM,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,REPORTING
+GEO,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,05-05-2021,REPORTING
+CPV,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,REPORTING
+KAZ,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,05-05-2021,REPORTING
+TKM,Asia,AS,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,24-02-2021,REPORTING
+LSO,Africa,AF,Beijing CNBG - BBIBP-CorV,BBIBP-CorV,Beijing Bio-Institute Biological Products (CNBG),0,0,REPORTING
+IND,Asia,AS,Zydus - ZyCov-D,ZyCov-D,Zydus Cadila,20-08-2021,0,REPORTING
+IND,Asia,AS,Biological E - Corbevax,Corbevax,Biological E,0,16-03-2022,REPORTING
+VNM,Asia,AS,CIGB - CIGB-66,CIGB-66,Center for Genetic Engineering and Biotechnology,17-09-2021,17-10-2021,REPORTING
+VEN,South America,SA,CIGB - CIGB-66,CIGB-66,Center for Genetic Engineering and Biotechnology,0,0,REPORTING
+NIC,North America,NA,CIGB - CIGB-66,CIGB-66,Center for Genetic Engineering and Biotechnology,0,25-10-2021,REPORTING
+CUB,North America,NA,CIGB - CIGB-66,CIGB-66,Center for Genetic Engineering and Biotechnology,0,0,REPORTING
+MEX,North America,NA,CIGB - CIGB-66,CIGB-66,Center for Genetic Engineering and Biotechnology,0,21-12-2022,REPORTING
+FRA,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,03-02-2021,REPORTING
+FIN,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,30-12-2020,REPORTING
+STP,Africa,AF,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,15-03-2021,REPORTING
+SWE,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,10-02-2021,REPORTING
+ESP,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,10-02-2021,REPORTING
+ARM,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,17-03-2021,REPORTING
+LAO,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,04-08-2021,REPORTING
+VUT,Oceania,OC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,10-05-2021,02-06-2021,REPORTING
+SYR,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,03-02-2021,01-04-2021,REPORTING
+SUR,South America,SA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,10-05-2021,26-05-2021,REPORTING
+LBN,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,16-12-2020,14-02-2021,REPORTING
+FJI,Oceania,OC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,22-02-2021,07-03-2021,REPORTING
+PHL,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,28-01-2021,07-03-2021,REPORTING
+BRB,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,08-04-2021,REPORTING
+SXM,Sin Determinar,Z9,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
+BTN,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,17-06-2021,0,REPORTING
+ISR,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,20-10-2021,REPORTING
+COL,South America,SA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,23-02-2021,29-03-2021,REPORTING
+LTU,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,10-02-2021,REPORTING
+MTQ,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
+MDV,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,20-06-2021,27-07-2021,REPORTING
+JOR,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,13-12-2020,13-01-2021,REPORTING
+IRN,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,27-01-2021,09-02-2021,REPORTING
+XKX,Sin Determinar,Z9,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,31-03-2021,REPORTING
+SLV,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,30-12-2020,17-02-2021,REPORTING
+DOM,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
+LKA,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,09-07-2021,0,REPORTING
+PRY,South America,SA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,30-12-2020,23-03-2021,REPORTING
+NLD,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,03-02-2021,REPORTING
+NIC,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,15-02-2021,16-10-2021,REPORTING
+KIR,Oceania,OC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,12-03-2021,26-05-2021,REPORTING
+PNG,Oceania,OC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,18-03-2021,30-03-2021,REPORTING
+BLZ,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,15-02-2021,07-04-2021,REPORTING
+MNE,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,31-03-2021,REPORTING
+BGD,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,23-06-2021,0,REPORTING
+WSM,Oceania,OC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,23-02-2021,18-04-2021,REPORTING
+SRB,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,24-02-2021,REPORTING
+MNG,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,10-01-2021,19-03-2021,REPORTING
+ISL,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,10-02-2021,REPORTING
+TON,Oceania,OC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,22-02-2021,14-04-2021,REPORTING
+SDN,Africa,AF,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,20-02-2021,09-03-2021,REPORTING
+NZL,Oceania,OC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,22-07-2021,26-11-2021,REPORTING
+KWT,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,13-12-2020,28-12-2020,REPORTING
+URY,South America,SA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,11-02-2021,17-04-2021,REPORTING
+SVN,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,03-03-2021,REPORTING
+SAU,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,10-12-2020,06-01-2021,REPORTING
+VGB,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,11-02-2021,REPORTING
+CZE,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,03-02-2021,REPORTING
+BHS,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,14-03-2021,REPORTING
+CYP,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,10-02-2021,REPORTING
+NPL,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,30-06-2021,0,REPORTING
+SLB,Oceania,OC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,26-05-2021,27-08-2021,REPORTING
+PAK,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,20-01-2021,03-02-2021,REPORTING
+LCA,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
+JPN,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,21-05-2021,21-08-2021,REPORTING
+PRT,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,30-12-2020,REPORTING
+ALB,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,10-03-2021,REPORTING
+LBY,Africa,AF,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,24-02-2021,11-04-2021,REPORTING
+VCT,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
+EST,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,17-02-2021,REPORTING
+HND,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,15-02-2021,15-03-2021,REPORTING
+ATG,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,01-02-2021,01-03-2021,REPORTING
+BEL,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,10-02-2021,REPORTING
+ARG,South America,SA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,20-12-2021,30-03-2021,REPORTING
+GTM,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,11-03-2021,15-03-2021,REPORTING
+MLT,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,30-12-2020,REPORTING
+QAT,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
+BMU,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,07-05-2021,REPORTING
+BOL,South America,SA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,22-03-2021,REPORTING
+AUT,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,10-02-2021,REPORTING
+CAN,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
+MKD,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,31-03-2021,REPORTING
+BRA,South America,SA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,17-01-2021,18-01-2021,REPORTING
+MCO,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,27-04-2022,REPORTING
+SOM,Africa,AF,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,22-02-2021,16-03-2021,REPORTING
+PER,South America,SA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,12-04-2021,21-04-2021,REPORTING
+BGR,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,03-02-2021,REPORTING
+ARE,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
+LVA,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,27-01-2021,REPORTING
+GRC,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,23-12-2020,REPORTING
+GUY,South America,SA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
+ITA,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,13-01-2021,REPORTING
+SGP,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
+HRV,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,13-01-2021,REPORTING
+GLP,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
+NRU,Oceania,OC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,02-03-2021,09-04-2021,REPORTING
+MDA,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,03-03-2021,REPORTING
+AFG,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,23-02-2021,22-02-2021,REPORTING
+CHL,South America,SA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,27-01-2021,27-04-2021,REPORTING
+AUS,Oceania,OC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,15-02-2021,21-02-2021,REPORTING
+IRQ,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,29-12-2020,02-03-2021,REPORTING
+BHR,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,03-11-2020,04-11-2020,REPORTING
+TUV,Oceania,OC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,23-02-2021,13-04-2021,REPORTING
+GBR,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,08-02-2021,REPORTING
+TUN,Africa,AF,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,11-01-2021,13-03-2021,REPORTING
+AIA,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,01-12-2020,05-02-2021,REPORTING
+BRN,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,22-02-2021,03-04-2021,REPORTING
+TTO,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,07-04-2021,REPORTING
+MAR,Africa,AF,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,06-01-2021,28-01-2021,REPORTING
+ECU,South America,SA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,22-01-2021,19-03-2021,REPORTING
+KGZ,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,14-07-2021,REPORTING
+HUN,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,10-02-2021,REPORTING
+DNK,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,06-01-2021,REPORTING
+AND,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,03-03-2021,REPORTING
+DMA,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,25-02-2021,07-04-2021,REPORTING
+IDN,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,21-02-2021,23-03-2021,REPORTING
+TJK,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,14-04-2021,REPORTING
+KHM,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,15-07-2021,25-07-2021,REPORTING
+THA,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,20-01-2021,16-03-2021,REPORTING
+EGY,Africa,AF,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,30-12-2020,24-01-2021,REPORTING
+UKR,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,28-04-2021,REPORTING
+MEX,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,04-01-2021,15-02-2021,REPORTING
+JAM,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,15-02-2021,10-03-2021,REPORTING
+ROU,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,17-02-2021,REPORTING
+FSM,Oceania,OC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
+GRD,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,12-02-2021,15-02-2021,REPORTING
+KNA,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
+AZE,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,05-05-2021,REPORTING
+SVK,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,03-03-2021,REPORTING
+KOR,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,09-02-2021,26-02-2021,REPORTING
+POL,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,06-01-2021,REPORTING
+BEN,Africa,AF,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
+TLS,Sin Determinar,Z9,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,23-02-2021,07-04-2021,REPORTING
+PSE,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,25-01-2021,02-02-2021,REPORTING
+DJI,Africa,AF,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,22-02-2021,15-03-2021,REPORTING
+MYS,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,15-02-2021,05-05-2021,REPORTING
+LUX,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,10-02-2021,REPORTING
+NOR,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,06-01-2021,REPORTING
+TKM,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,24-02-2021,REPORTING
+CUW,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
+PCN,Sin Determinar,Z9,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,17-05-2021,17-05-2021,REPORTING
+MSR,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,08-02-2021,REPORTING
+IRL,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,14-04-2021,REPORTING
+OMN,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,14-02-2021,29-12-2020,REPORTING
+DEU,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,10-02-2021,REPORTING
+VNM,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,01-02-2021,08-03-2021,REPORTING
+YEM,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,27-02-2021,20-04-2021,REPORTING
+GEO,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,17-03-2021,REPORTING
+CRI,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,26-02-2021,19-04-2021,REPORTING
+PAN,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,02-03-2021,22-04-2021,REPORTING
+YEM,Asia,AS,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+OMN,Asia,AS,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+PSE,Asia,AS,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+DJI,Africa,AF,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+MYS,Asia,AS,CanSino - Convidecia,Convidecia,CanSino Biologicals,15-06-2021,0,REPORTING
+MEX,North America,NA,CanSino - Convidecia,Convidecia,CanSino Biologicals,08-02-2021,01-01-2021,REPORTING
+JOR,Asia,AS,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+IRN,Asia,AS,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+SYR,Asia,AS,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+LBN,Asia,AS,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+QAT,Asia,AS,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+LBY,Africa,AF,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+PAK,Asia,AS,CanSino - Convidecia,Convidecia,CanSino Biologicals,20-01-2021,03-02-2021,REPORTING
+SAU,Asia,AS,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+SDN,Africa,AF,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+KWT,Asia,AS,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+IRQ,Asia,AS,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+BHR,Asia,AS,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+SOM,Africa,AF,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+ARE,Asia,AS,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+CHN,Asia,AS,CanSino - Convidecia,Convidecia,CanSino Biologicals,22-07-2020,22-07-2020,REPORTING
+ARG,South America,SA,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,08-09-2021,REPORTING
+EGY,Africa,AF,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+MAR,Africa,AF,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+ECU,South America,SA,CanSino - Convidecia,Convidecia,CanSino Biologicals,14-06-2021,02-08-2021,REPORTING
+TUN,Africa,AF,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+AFG,Asia,AS,CanSino - Convidecia,Convidecia,CanSino Biologicals,0,0,REPORTING
+CHL,South America,SA,CanSino - Convidecia,Convidecia,CanSino Biologicals,07-04-2021,03-06-2021,REPORTING
+BLR,Europe,EU,Chumakov - Covi-Vac,Covi-Vac,Chumakov,0,12-01-2022,REPORTING
+ARM,Asia,AS,Wuhan CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Wuhan Institute of Biological Products (CNBG),0,09-03-2022,REPORTING
+MKD,Europe,EU,Wuhan CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Wuhan Institute of Biological Products (CNBG),0,21-04-2021,REPORTING
+CHN,Asia,AS,Wuhan CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Wuhan Institute of Biological Products (CNBG),22-07-2020,22-07-2020,REPORTING
+FRA,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+FIN,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+SWE,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+ESP,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,30-12-2020,REPORTING
+GUF,South America,SA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,13-01-2021,REPORTING
+PRI,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,11-12-2020,0,REPORTING
+LBN,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,16-12-2020,14-02-2021,REPORTING
+PHL,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,14-01-2021,12-05-2021,REPORTING
+BRB,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,19-08-2021,REPORTING
+ABW,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,17-02-2021,REPORTING
+LAO,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,07-05-2021,15-06-2021,REPORTING
+LTU,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+MTQ,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+SYR,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,03-02-2021,01-04-2021,REPORTING
+SUR,South America,SA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,20-08-2021,28-08-2021,REPORTING
+CIV,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,15-01-2021,0,REPORTING
+LIE,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,06-01-2021,REPORTING
+GIN,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,27-01-2021,05-03-2021,REPORTING
+DOM,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+SXM,Sin Determinar,Z9,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,22-02-2021,REPORTING
+BTN,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,08-03-2021,20-07-2021,REPORTING
+ISR,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,16-12-2020,REPORTING
+COL,South America,SA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,05-01-2021,17-02-2021,REPORTING
+MDV,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,14-03-2021,13-04-2021,REPORTING
+JOR,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,13-12-2020,13-01-2021,REPORTING
+IRN,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+XKX,Sin Determinar,Z9,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,05-05-2021,REPORTING
+SLV,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,17-01-2021,23-03-2021,REPORTING
+BES,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,22-02-2021,REPORTING
+MNG,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,10-01-2021,26-03-2021,REPORTING
+CMR,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,19-08-2021,0,REPORTING
+LKA,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,08-05-2021,07-07-2021,REPORTING
+PRY,South America,SA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,12-07-2021,REPORTING
+NLD,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,30-12-2020,REPORTING
+NIC,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,31-12-2020,13-10-2021,REPORTING
+MNE,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,05-05-2021,REPORTING
+BGD,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,08-03-2021,21-06-2021,REPORTING
+WSM,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,25-10-2021,REPORTING
+SRB,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+UZB,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,15-09-2021,REPORTING
+ASM,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,11-12-2020,21-12-2020,REPORTING
+TON,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,13-10-2021,21-10-2021,REPORTING
+SDN,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+NZL,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,03-02-2021,19-02-2021,REPORTING
+KWT,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,13-12-2020,28-12-2020,REPORTING
+URY,South America,SA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,21-01-2021,12-03-2021,REPORTING
+BLZ,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,31-12-2021,21-08-2021,REPORTING
+CZE,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+RWA,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,19-02-2021,05-03-2021,REPORTING
+BHS,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,12-08-2021,REPORTING
+CYP,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+ISL,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,30-12-2020,REPORTING
+CHE,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+LCA,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+JPN,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,14-02-2021,17-02-2021,REPORTING
+PRT,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+SVN,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,03-03-2021,REPORTING
+SAU,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,10-12-2020,06-01-2021,REPORTING
+VGB,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+KEN,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+HND,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,21-06-2021,REPORTING
+ATG,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12-08-2021,24-08-2021,REPORTING
+NPL,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,30-06-2021,14-11-2021,REPORTING
+SLB,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,15-10-2021,16-12-2021,REPORTING
+PAK,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,20-01-2021,03-02-2021,REPORTING
+BMU,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,02-12-2020,11-01-2021,REPORTING
+ALB,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,13-01-2021,REPORTING
+LBY,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,24-02-2021,11-04-2021,REPORTING
+VCT,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+EST,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+MNP,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,11-12-2020,19-12-2020,REPORTING
+ARG,South America,SA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,16-09-2021,REPORTING
+GTM,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,22-08-2021,REPORTING
+TCA,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,11-01-2021,REPORTING
+COK,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,03-02-2021,17-05-2021,REPORTING
+MLT,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+QAT,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+MKD,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,17-02-2021,REPORTING
+BRA,South America,SA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,23-02-2021,03-05-2021,REPORTING
+PYF,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,29-12-2020,18-01-2021,REPORTING
+MCO,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,30-06-2021,REPORTING
+CHN,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,25-01-2021,06-03-2021,REPORTING
+BEL,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,30-12-2020,REPORTING
+LVA,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,30-12-2020,REPORTING
+GRC,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+BOL,South America,SA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,29-04-2021,30-04-2021,REPORTING
+GUM,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,11-12-2020,04-01-2021,REPORTING
+AUT,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,30-12-2020,REPORTING
+CAN,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,09-12-2020,14-12-2020,REPORTING
+PER,South America,SA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,01-02-2021,08-03-2021,REPORTING
+TKL,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,03-02-2021,20-07-2021,REPORTING
+BGR,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,30-12-2020,REPORTING
+ARE,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+NIU,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,08-06-2021,REPORTING
+NAM,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,09-07-2021,0,REPORTING
+SGP,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,14-12-2020,30-12-2020,REPORTING
+HRV,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+PLW,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,11-12-2020,26-07-2021,REPORTING
+GLP,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,08-01-2021,REPORTING
+CYM,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,02-12-2020,15-01-2021,REPORTING
+SOM,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,22-02-2021,16-03-2021,REPORTING
+AUS,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,25-01-2021,21-02-2021,REPORTING
+IRQ,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,29-12-2020,02-03-2021,REPORTING
+BHR,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,03-11-2020,04-11-2020,REPORTING
+GUY,South America,SA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,24-08-2021,REPORTING
+BWA,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,25-02-2021,26-03-2021,REPORTING
+ITA,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+BRN,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+TTO,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,12-10-2021,REPORTING
+MDA,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,24-03-2021,REPORTING
+SWZ,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+AFG,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+CHL,South America,SA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,16-12-2020,21-12-2020,REPORTING
+DNK,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,16-12-2020,REPORTING
+AND,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,20-01-2021,REPORTING
+GBR,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,21-12-2020,REPORTING
+TUN,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,11-01-2021,13-03-2021,REPORTING
+UGA,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+AIA,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,06-09-2021,REPORTING
+GAB,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+MAR,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,06-01-2021,28-01-2021,REPORTING
+TZA,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,24-08-2021,0,REPORTING
+ECU,South America,SA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,17-12-2021,20-01-2021,REPORTING
+KGZ,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,03-11-2021,REPORTING
+HUN,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+DMA,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-09-2021,REPORTING
+IDN,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,14-07-2021,23-08-2021,REPORTING
+TJK,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,06-10-2021,REPORTING
+KHM,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,02-08-2021,14-01-2022,REPORTING
+THA,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,24-06-2021,06-08-2021,REPORTING
+EGY,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,30-12-2020,24-01-2021,REPORTING
+UKR,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,14-04-2021,REPORTING
+MEX,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,11-12-2020,24-12-2020,REPORTING
+JAM,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,16-08-2021,21-08-2021,REPORTING
+ROU,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,27-01-2021,REPORTING
+FSM,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,11-12-2020,24-08-2021,REPORTING
+GRD,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-08-2021,REPORTING
+USA,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,11-12-2020,14-12-2020,REPORTING
+KOR,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,04-03-2021,27-02-2021,REPORTING
+POL,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+NCL,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,29-12-2020,20-01-2021,REPORTING
+BEN,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+ZAF,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+LUX,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,30-12-2020,REPORTING
+NOR,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,30-12-2020,REPORTING
+KNA,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,01-09-2021,01-09-2021,REPORTING
+MHL,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,11-12-2020,01-10-2021,REPORTING
+AZE,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,09-06-2021,REPORTING
+SVK,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,03-03-2021,REPORTING
+OMN,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,14-02-2021,29-12-2020,REPORTING
+TLS,Sin Determinar,Z9,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,27-08-2021,27-10-2021,REPORTING
+PSE,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,25-01-2021,02-02-2021,REPORTING
+DJI,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,22-02-2021,15-03-2021,REPORTING
+MYS,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,08-01-2021,24-02-2021,REPORTING
+SMR,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,03-03-2021,REPORTING
+PAN,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,28-12-2020,20-01-2021,REPORTING
+CPV,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,19-02-2021,18-03-2021,REPORTING
+KAZ,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,10-11-2021,REPORTING
+CUW,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,24-02-2021,REPORTING
+MSR,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+IRL,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,07-04-2021,REPORTING
+ARM,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,17-03-2021,REPORTING
+DEU,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+VNM,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12-06-2021,01-07-2021,REPORTING
+YEM,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
+GEO,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,31-03-2021,REPORTING
+CRI,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,15-12-2020,24-12-2020,REPORTING
+FRA,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,13-01-2021,REPORTING
+FIN,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,23-12-2020,REPORTING
+SWE,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,17-02-2021,REPORTING
+ESP,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,13-01-2021,REPORTING
+GUF,South America,SA,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+PRI,North America,NA,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+LIE,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,13-01-2021,REPORTING
+LBN,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,16-12-2020,14-02-2021,REPORTING
+FJI,Oceania,OC,Moderna - Spikevax,Spikevax,Moderna,01-09-2021,0,REPORTING
+PHL,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,05-05-2021,01-07-2021,REPORTING
+BTN,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,22-06-2021,20-07-2021,REPORTING
+ISR,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,0,03-03-2021,REPORTING
+COL,South America,SA,Moderna - Spikevax,Spikevax,Moderna,25-06-2021,27-07-2021,REPORTING
+LTU,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,13-01-2021,REPORTING
+SYR,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+SUR,South America,SA,Moderna - Spikevax,Spikevax,Moderna,14-07-2021,27-07-2021,REPORTING
+MDV,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,06-06-2021,0,REPORTING
+JOR,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,13-12-2020,13-01-2021,REPORTING
+IRN,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+SLV,North America,NA,Moderna - Spikevax,Spikevax,Moderna,03-06-2021,02-08-2021,REPORTING
+BES,North America,NA,Moderna - Spikevax,Spikevax,Moderna,0,22-02-2021,REPORTING
+SXM,Sin Determinar,Z9,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+ASM,Oceania,OC,Moderna - Spikevax,Spikevax,Moderna,18-12-2020,23-12-2020,REPORTING
+MNG,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,10-01-2021,0,REPORTING
+LKA,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,28-06-2021,18-07-2021,REPORTING
+PRY,South America,SA,Moderna - Spikevax,Spikevax,Moderna,29-12-2020,09-06-2021,REPORTING
+NLD,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,13-01-2021,REPORTING
+NIC,North America,NA,Moderna - Spikevax,Spikevax,Moderna,0,07-03-2022,REPORTING
+SDN,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+IND,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,29-06-2021,0,REPORTING
+KWT,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,13-12-2020,28-12-2020,REPORTING
+BGD,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,27-06-2021,13-07-2021,REPORTING
+SRB,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,10-11-2021,REPORTING
+UZB,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,0,28-07-2021,REPORTING
+SAU,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,10-12-2020,06-01-2021,REPORTING
+CZE,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,30-12-2020,REPORTING
+RWA,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,29-07-2021,0,REPORTING
+CYP,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,0,20-01-2021,REPORTING
+ISL,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,13-01-2021,REPORTING
+CHE,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,23-12-2020,REPORTING
+NPL,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,15-09-2021,19-12-2021,REPORTING
+PAK,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,20-01-2021,03-02-2021,REPORTING
+LCA,North America,NA,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+JPN,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,21-05-2021,24-05-2021,REPORTING
+PRT,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,20-01-2021,REPORTING
+SVN,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,03-03-2021,REPORTING
+BMU,North America,NA,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+LBY,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,24-02-2021,11-04-2021,REPORTING
+EST,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,20-01-2021,REPORTING
+MNP,Oceania,OC,Moderna - Spikevax,Spikevax,Moderna,18-12-2020,12-01-2021,REPORTING
+KEN,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+HND,North America,NA,Moderna - Spikevax,Spikevax,Moderna,17-02-2021,22-02-2021,REPORTING
+MCO,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,02-03-2022,REPORTING
+BEL,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,13-01-2021,REPORTING
+ARG,South America,SA,Moderna - Spikevax,Spikevax,Moderna,23-07-2021,02-08-2021,REPORTING
+GTM,North America,NA,Moderna - Spikevax,Spikevax,Moderna,25-02-2021,25-02-2021,REPORTING
+MLT,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,13-01-2021,REPORTING
+QAT,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+GRC,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,23-12-2020,REPORTING
+BOL,South America,SA,Moderna - Spikevax,Spikevax,Moderna,0,10-01-2022,REPORTING
+GUM,Oceania,OC,Moderna - Spikevax,Spikevax,Moderna,18-12-2020,29-01-2021,REPORTING
+AUT,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,13-01-2021,REPORTING
+CAN,North America,NA,Moderna - Spikevax,Spikevax,Moderna,23-12-2020,0,REPORTING
+MKD,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,10-08-2022,REPORTING
+GLP,North America,NA,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+SOM,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+PER,South America,SA,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+BGR,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,13-01-2021,REPORTING
+ARE,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+LVA,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,13-01-2021,REPORTING
+GUY,South America,SA,Moderna - Spikevax,Spikevax,Moderna,0,03-07-2021,REPORTING
+BWA,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,16-04-2021,26-03-2021,REPORTING
+ITA,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,06-01-2021,REPORTING
+SGP,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,03-02-2021,17-03-2021,REPORTING
+HRV,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,30-12-2020,REPORTING
+PLW,Oceania,OC,Moderna - Spikevax,Spikevax,Moderna,18-12-2020,03-01-2021,REPORTING
+AFG,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+HTI,North America,NA,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+CHL,South America,SA,Moderna - Spikevax,Spikevax,Moderna,02-02-2022,02-02-2022,REPORTING
+AUS,Oceania,OC,Moderna - Spikevax,Spikevax,Moderna,09-08-2021,20-09-2021,REPORTING
+IRQ,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+BHR,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+AND,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,14-07-2021,REPORTING
+GBR,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,11-01-2021,REPORTING
+TUN,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,11-01-2021,13-03-2021,REPORTING
+UGA,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+BRN,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,09-04-2021,21-06-2021,REPORTING
+MDA,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,08-12-2021,REPORTING
+COG,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,03-03-2021,23-03-2021,REPORTING
+EGY,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,30-12-2020,24-01-2021,REPORTING
+MAR,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+KGZ,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,0,15-12-2021,REPORTING
+HUN,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,13-01-2021,REPORTING
+DNK,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,16-12-2020,REPORTING
+GRD,North America,NA,Moderna - Spikevax,Spikevax,Moderna,0,23-03-2022,REPORTING
+DMA,North America,NA,Moderna - Spikevax,Spikevax,Moderna,0,10-02-2022,REPORTING
+IDN,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,01-07-2021,25-07-2021,REPORTING
+TJK,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,0,28-07-2021,REPORTING
+KHM,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,02-08-2021,16-12-2021,REPORTING
+THA,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,13-05-2021,08-11-2021,REPORTING
+KOR,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,21-05-2021,01-06-2021,REPORTING
+POL,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,30-12-2020,REPORTING
+UKR,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,21-07-2021,REPORTING
+MEX,North America,NA,Moderna - Spikevax,Spikevax,Moderna,17-08-2021,13-01-2021,REPORTING
+ROU,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,03-02-2021,REPORTING
+FSM,Oceania,OC,Moderna - Spikevax,Spikevax,Moderna,18-12-2020,13-01-2021,REPORTING
+MYS,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,05-08-2021,0,REPORTING
+LUX,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,20-01-2021,REPORTING
+NOR,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,06-01-2021,REPORTING
+MHL,Oceania,OC,Moderna - Spikevax,Spikevax,Moderna,18-12-2020,29-12-2020,REPORTING
+SVK,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,03-03-2021,REPORTING
+USA,North America,NA,Moderna - Spikevax,Spikevax,Moderna,18-12-2020,21-12-2020,REPORTING
+CPV,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+CUW,North America,NA,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+IRL,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,13-10-2021,REPORTING
+OMN,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+PSE,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,25-01-2021,02-02-2021,REPORTING
+DJI,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+ARM,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,0,15-09-2021,REPORTING
+DEU,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,13-01-2021,REPORTING
+VNM,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,28-06-2021,01-07-2021,REPORTING
+WLF,Oceania,OC,Moderna - Spikevax,Spikevax,Moderna,06-01-2021,19-03-2021,REPORTING
+YEM,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
+CRI,North America,NA,Moderna - Spikevax,Spikevax,Moderna,0,22-02-2022,REPORTING
+TKM,Asia,AS,SRCVB - EpiVacCorona,EpiVacCorona,State Research Center of Virology & Biotechnology,0,24-02-2021,REPORTING
+ETH,Africa,AF,Bharat - Covaxin,Covaxin,Bharat Biotech,03-03-2021,13-03-2021,REPORTING
+YEM,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+OMN,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+ZWE,Africa,AF,Bharat - Covaxin,Covaxin,Bharat Biotech,0,18-02-2021,REPORTING
+PSE,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+DJI,Africa,AF,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+SYR,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+LBN,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+PHL,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,19-04-2021,0,REPORTING
+SDN,Africa,AF,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+IND,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,03-01-2021,16-01-2021,REPORTING
+KWT,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+PRY,South America,SA,Bharat - Covaxin,Covaxin,Bharat Biotech,03-01-2021,10-04-2021,REPORTING
+JOR,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+IRN,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,27-01-2021,09-02-2021,REPORTING
+LBY,Africa,AF,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+CAF,Africa,AF,Bharat - Covaxin,Covaxin,Bharat Biotech,26-02-2021,19-03-2021,REPORTING
+NPL,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,19-03-2021,0,REPORTING
+PAK,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+PRT,Europe,EU,Bharat - Covaxin,Covaxin,Bharat Biotech,0,06-01-2021,REPORTING
+SAU,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+IRQ,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+BHR,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+BWA,Africa,AF,Bharat - Covaxin,Covaxin,Bharat Biotech,16-04-2021,0,REPORTING
+SOM,Africa,AF,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+ARE,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+QAT,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+EGY,Africa,AF,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+MAR,Africa,AF,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+MUS,Africa,AF,Bharat - Covaxin,Covaxin,Bharat Biotech,18-03-2021,0,REPORTING
+TUN,Africa,AF,Bharat - Covaxin,Covaxin,Bharat Biotech,0,0,REPORTING
+AFG,Asia,AS,Bharat - Covaxin,Covaxin,Bharat Biotech,23-02-2021,22-02-2021,REPORTING
+COM,Africa,AF,Bharat - Covaxin,Covaxin,Bharat Biotech,01-02-2021,10-04-2021,REPORTING
+ETH,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+FRA,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,21-04-2021,REPORTING
+FIN,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,23-12-2020,REPORTING
+ESP,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,21-04-2021,REPORTING
+GUF,South America,SA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+PRI,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+ABW,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+LAO,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,23-06-2021,25-07-2021,REPORTING
+VUT,Oceania,OC,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,22-12-2021,28-01-2022,REPORTING
+SSD,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+ZMB,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+SYR,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,03-02-2021,01-04-2021,REPORTING
+CIV,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,15-01-2021,0,REPORTING
+LIE,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,13-10-2021,REPORTING
+LBN,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,16-12-2020,14-02-2021,REPORTING
+PHL,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,19-04-2021,19-07-2021,REPORTING
+BRB,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,15-10-2021,REPORTING
+MDV,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,06-02-2021,0,REPORTING
+JOR,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,13-12-2020,13-01-2021,REPORTING
+IRN,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+GIN,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,22-03-2021,05-03-2021,REPORTING
+COL,South America,SA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,25-03-2021,23-06-2021,REPORTING
+LTU,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,21-04-2021,REPORTING
+ASM,Oceania,OC,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,27-02-2021,16-03-2021,REPORTING
+CMR,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,22-07-2021,0,REPORTING
+BFA,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,20-07-2021,0,REPORTING
+NLD,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,21-04-2021,REPORTING
+NIC,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,25-06-2021,08-10-2021,REPORTING
+PNG,Oceania,OC,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,21-06-2021,28-08-2021,REPORTING
+NZL,Oceania,OC,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,07-07-2021,0,REPORTING
+IND,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,05-08-2021,0,REPORTING
+KWT,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,13-12-2020,28-12-2020,REPORTING
+BLZ,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,01-09-2021,REPORTING
+BGD,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,15-06-2021,0,REPORTING
+UZB,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,09-11-2022,REPORTING
+RWA,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,11-06-2021,0,REPORTING
+BHS,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,19-08-2021,REPORTING
+CYP,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,28-04-2021,REPORTING
+ISL,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,28-04-2021,REPORTING
+CHE,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,23-12-2020,REPORTING
+SDN,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,20-02-2021,09-03-2021,REPORTING
+LCA,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+PRT,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,30-12-2020,REPORTING
+SVN,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,03-03-2021,REPORTING
+SAU,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,10-12-2020,06-01-2021,REPORTING
+VGB,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+CZE,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,03-03-2021,REPORTING
+MNP,Oceania,OC,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,27-02-2021,19-03-2021,REPORTING
+KEN,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+HND,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,22-04-2021,REPORTING
+ATG,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,27-08-2021,06-09-2021,REPORTING
+NPL,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,30-06-2021,19-07-2021,REPORTING
+PAK,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+MCO,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,27-04-2022,REPORTING
+BEL,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,28-04-2021,REPORTING
+MLT,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,24-02-2021,REPORTING
+QAT,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+LBY,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,24-02-2021,11-04-2021,REPORTING
+EST,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,28-04-2021,REPORTING
+GUM,Oceania,OC,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,27-02-2021,15-03-2021,REPORTING
+MWI,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+AUT,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,17-03-2021,REPORTING
+CAN,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+BRA,South America,SA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,23-06-2021,REPORTING
+PYF,Oceania,OC,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,25-03-2021,03-05-2021,REPORTING
+BGR,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,12-05-2021,REPORTING
+ARE,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+NAM,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,02-08-2021,0,REPORTING
+LVA,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,06-01-2021,REPORTING
+GRC,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,06-01-2021,REPORTING
+BOL,South America,SA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,07-10-2021,REPORTING
+ITA,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,06-01-2021,REPORTING
+HRV,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,13-01-2021,REPORTING
+SEN,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,20-07-2021,0,REPORTING
+PLW,Oceania,OC,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,27-02-2021,21-03-2021,REPORTING
+GLP,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+SOM,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,22-02-2021,16-03-2021,REPORTING
+HTI,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+AUS,Oceania,OC,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,25-06-2021,0,REPORTING
+IRQ,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+BHR,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,03-11-2020,04-11-2020,REPORTING
+GUY,South America,SA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+BWA,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,26-03-2021,0,REPORTING
+UGA,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+BRN,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+TTO,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,23-10-2021,REPORTING
+MDA,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,26-05-2021,REPORTING
+SWZ,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+AFG,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,23-02-2021,22-02-2021,REPORTING
+MAR,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,06-01-2021,28-01-2021,REPORTING
+TZA,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,20-07-2021,28-07-2021,REPORTING
+HUN,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,05-05-2021,REPORTING
+DNK,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,06-01-2021,REPORTING
+MOZ,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,26-07-2021,0,REPORTING
+TUN,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,11-01-2021,13-03-2021,REPORTING
+FSM,Oceania,OC,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,27-02-2021,09-04-2021,REPORTING
+GRD,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,12-11-2021,REPORTING
+IDN,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,07-09-2021,28-10-2021,REPORTING
+KHM,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,21-07-2021,01-08-2021,REPORTING
+THA,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,25-03-2021,0,REPORTING
+EGY,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,30-12-2020,24-01-2021,REPORTING
+BEN,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+ZAF,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,17-02-2021,REPORTING
+UKR,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,19-05-2021,REPORTING
+MEX,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,27-05-2021,18-01-2021,REPORTING
+JAM,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,13-07-2021,14-07-2021,REPORTING
+ROU,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,05-05-2021,REPORTING
+MHL,Oceania,OC,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,27-02-2021,08-04-2021,REPORTING
+SVK,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,03-03-2021,REPORTING
+USA,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,01-03-2021,REPORTING
+KOR,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,07-04-2021,10-06-2021,REPORTING
+POL,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,06-01-2021,REPORTING
+NCL,Oceania,OC,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+OMN,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
+PSE,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,25-01-2021,02-02-2021,REPORTING
+DJI,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,22-02-2021,15-03-2021,REPORTING
+MYS,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,15-06-2021,0,REPORTING
+LUX,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,07-04-2021,REPORTING
+NOR,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,10-03-2021,REPORTING
+ARM,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,05-05-2021,REPORTING
+DEU,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,21-04-2021,REPORTING
+MDG,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,21-07-2021,0,REPORTING
+YEM,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,27-02-2021,20-04-2021,REPORTING
+LSO,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,07-07-2021,0,REPORTING
+IRL,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,07-04-2021,REPORTING
+ARM,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,31-03-2021,REPORTING
+YEM,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,27-02-2021,20-04-2021,REPORTING
+GEO,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,26-05-2021,REPORTING
+KAZ,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,05-05-2021,REPORTING
+OMN,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,14-02-2021,29-12-2020,REPORTING
+TLS,Sin Determinar,Z9,Sinovac - CoronaVac,Coronavac,Sinovac,06-01-2021,14-06-2021,REPORTING
+LBN,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,REPORTING
+PHL,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,22-02-2021,01-03-2021,REPORTING
+LAO,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,16-06-2021,05-10-2021,REPORTING
+SLV,North America,NA,Sinovac - CoronaVac,Coronavac,Sinovac,09-03-2021,28-03-2021,REPORTING
+GIN,Africa,AF,Sinovac - CoronaVac,Coronavac,Sinovac,01-04-2021,05-03-2021,REPORTING
+DOM,North America,NA,Sinovac - CoronaVac,Coronavac,Sinovac,20-12-2020,24-02-2021,REPORTING
+COL,South America,SA,Sinovac - CoronaVac,Coronavac,Sinovac,04-02-2021,22-02-2021,REPORTING
+SYR,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,03-02-2021,01-04-2021,REPORTING
+VEN,South America,SA,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,REPORTING
+BGD,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,06-06-2021,11-12-2021,REPORTING
+UZB,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,20-10-2021,REPORTING
+PRY,South America,SA,Sinovac - CoronaVac,Coronavac,Sinovac,06-02-2021,10-03-2021,REPORTING
+MDV,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,14-03-2021,0,REPORTING
+JOR,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,13-12-2020,13-01-2021,REPORTING
+IRN,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,REPORTING
+SAU,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,REPORTING
+DZA,Africa,AF,Sinovac - CoronaVac,Coronavac,Sinovac,31-03-2021,0,REPORTING
+RWA,Africa,AF,Sinovac - CoronaVac,Coronavac,Sinovac,17-07-2021,0,REPORTING
+SDN,Africa,AF,Sinovac - CoronaVac,Coronavac,Sinovac,20-02-2021,09-03-2021,REPORTING
+KWT,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,REPORTING
+URY,South America,SA,Sinovac - CoronaVac,Coronavac,Sinovac,18-02-2021,27-02-2021,REPORTING
+CHN,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,22-07-2020,22-07-2020,REPORTING
+QAT,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,REPORTING
+ALB,Europe,EU,Sinovac - CoronaVac,Coronavac,Sinovac,0,24-03-2021,REPORTING
+LBY,Africa,AF,Sinovac - CoronaVac,Coronavac,Sinovac,24-02-2021,11-04-2021,REPORTING
+PAK,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,20-01-2021,03-02-2021,REPORTING
+PRT,Europe,EU,Sinovac - CoronaVac,Coronavac,Sinovac,0,23-12-2020,REPORTING
+GNQ,Africa,AF,Sinovac - CoronaVac,Coronavac,Sinovac,0,12-02-2021,REPORTING
+BWA,Africa,AF,Sinovac - CoronaVac,Coronavac,Sinovac,08-04-2021,26-03-2021,REPORTING
+SOM,Africa,AF,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,REPORTING
+ARE,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,REPORTING
+MKD,Europe,EU,Sinovac - CoronaVac,Coronavac,Sinovac,0,16-06-2021,REPORTING
+BRA,South America,SA,Sinovac - CoronaVac,Coronavac,Sinovac,17-01-2021,17-01-2021,REPORTING
+UGA,Africa,AF,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,REPORTING
+MDA,Europe,EU,Sinovac - CoronaVac,Coronavac,Sinovac,0,12-05-2021,REPORTING
+AFG,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,REPORTING
+CHL,South America,SA,Sinovac - CoronaVac,Coronavac,Sinovac,20-01-2021,03-02-2021,REPORTING
+IRQ,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,REPORTING
+BHR,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,REPORTING
+THA,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,22-02-2021,28-02-2021,REPORTING
+EGY,Africa,AF,Sinovac - CoronaVac,Coronavac,Sinovac,30-12-2020,24-01-2021,REPORTING
+MAR,Africa,AF,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,REPORTING
+ECU,South America,SA,Sinovac - CoronaVac,Coronavac,Sinovac,06-03-2021,08-03-2021,REPORTING
+HUN,Europe,EU,Sinovac - CoronaVac,Coronavac,Sinovac,0,15-02-2021,REPORTING
+TUN,Africa,AF,Sinovac - CoronaVac,Coronavac,Sinovac,11-01-2021,13-03-2021,REPORTING
+UKR,Europe,EU,Sinovac - CoronaVac,Coronavac,Sinovac,0,14-04-2021,REPORTING
+MEX,North America,NA,Sinovac - CoronaVac,Coronavac,Sinovac,09-02-2021,22-02-2021,REPORTING
+JAM,North America,NA,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,REPORTING
+IDN,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,11-01-2021,13-01-2021,REPORTING
+TJK,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,09-06-2021,REPORTING
+KHM,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,12-02-2021,01-04-2021,REPORTING
+ZWE,Africa,AF,Sinovac - CoronaVac,Coronavac,Sinovac,0,18-02-2021,REPORTING
+PSE,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,25-01-2021,02-02-2021,REPORTING
+DJI,Africa,AF,Sinovac - CoronaVac,Coronavac,Sinovac,22-02-2021,15-03-2021,REPORTING
+MYS,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,02-03-2021,18-03-2021,REPORTING
+AZE,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,20-01-2021,REPORTING
+BEN,Africa,AF,Sinovac - CoronaVac,Coronavac,Sinovac,26-02-2021,29-03-2021,REPORTING
+FRA,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,23-02-2022,REPORTING
+SWE,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,09-03-2022,REPORTING
+PRI,North America,NA,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,0,REPORTING
+DEU,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,23-02-2022,REPORTING
+IRL,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,03-02-2021,REPORTING
+LUX,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,02-03-2022,REPORTING
+NLD,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,16-03-2022,REPORTING
+PHL,Asia,AS,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,0,REPORTING
+SVN,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,31-03-2021,REPORTING
+CZE,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,02-03-2022,REPORTING
+CYP,Asia,AS,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,09-03-2022,REPORTING
+ISL,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,03-08-2022,REPORTING
+CHE,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,20-07-2022,REPORTING
+NZL,Oceania,OC,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,0,REPORTING
+CAN,North America,NA,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,0,REPORTING
+MCO,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,30-03-2022,REPORTING
+BEL,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,02-03-2022,REPORTING
+EST,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,09-03-2022,REPORTING
+JPN,Asia,AS,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,0,REPORTING
+PRT,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,20-01-2021,REPORTING
+ITA,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,02-02-2022,REPORTING
+HRV,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,02-03-2022,REPORTING
+GLP,North America,NA,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,0,REPORTING
+LVA,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,02-03-2022,REPORTING
+GRC,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,13-10-2021,REPORTING
+AUT,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,23-02-2022,REPORTING
+SVK,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,30-03-2022,REPORTING
+USA,North America,NA,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,0,REPORTING
+KOR,Asia,AS,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,0,REPORTING
+POL,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,09-06-2021,REPORTING
+IDN,Asia,AS,Novavax-NUVAXOVID,NUVAXOVID,Novavax,01-11-2021,06-12-2021,REPORTING
+AUS,Oceania,OC,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,0,REPORTING
+ETH,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,03-03-2021,13-03-2021,REPORTING
+TGO,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,0,10-03-2021,REPORTING
+STP,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,21-02-2021,15-03-2021,REPORTING
+AGO,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,0,10-03-2021,REPORTING
+ARM,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,0,28-04-2021,REPORTING
+MDG,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,26-03-2021,10-05-2021,REPORTING
+SSD,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,01-03-2021,06-04-2021,REPORTING
+ZMB,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,28-02-2021,14-04-2021,REPORTING
+SYR,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,03-02-2021,01-04-2021,REPORTING
+SUR,South America,SA,SII - Covishield,Covishield,Serum Institute of India,15-02-2021,23-02-2021,REPORTING
+CIV,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,13-02-2021,01-03-2021,REPORTING
+FJI,Oceania,OC,SII - Covishield,Covishield,Serum Institute of India,0,06-04-2021,REPORTING
+BRB,North America,NA,SII - Covishield,Covishield,Serum Institute of India,0,08-01-2021,REPORTING
+LAO,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,22-02-2021,02-04-2021,REPORTING
+GIN,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,18-02-2021,05-03-2021,REPORTING
+DOM,North America,NA,SII - Covishield,Covishield,Serum Institute of India,20-12-2020,16-02-2021,REPORTING
+MLI,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,19-02-2021,31-03-2021,REPORTING
+BTN,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,21-01-2021,27-03-2021,REPORTING
+GMB,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,12-02-2021,10-03-2021,REPORTING
+GHA,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,12-02-2021,02-03-2021,REPORTING
+LKA,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,22-01-2021,29-01-2021,REPORTING
+BFA,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,21-05-2021,02-06-2021,REPORTING
+NIC,North America,NA,SII - Covishield,Covishield,Serum Institute of India,15-02-2021,06-04-2021,REPORTING
+PNG,Oceania,OC,SII - Covishield,Covishield,Serum Institute of India,02-03-2021,05-05-2021,REPORTING
+MDV,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,29-01-2021,01-02-2021,REPORTING
+SLV,North America,NA,SII - Covishield,Covishield,Serum Institute of India,25-01-2021,12-04-2021,REPORTING
+BLZ,North America,NA,SII - Covishield,Covishield,Serum Institute of India,15-02-2021,01-03-2021,REPORTING
+BGD,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,07-01-2021,27-01-2021,REPORTING
+UZB,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,0,28-04-2021,REPORTING
+MNG,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,10-01-2021,23-02-2021,REPORTING
+NER,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,04-03-2021,29-03-2021,REPORTING
+CMR,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,04-03-2021,12-04-2021,REPORTING
+LCA,North America,NA,SII - Covishield,Covishield,Serum Institute of India,15-02-2021,17-02-2021,REPORTING
+DZA,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,01-02-2021,0,REPORTING
+RWA,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,23-02-2021,05-03-2021,REPORTING
+BHS,North America,NA,SII - Covishield,Covishield,Serum Institute of India,05-03-2021,14-03-2021,REPORTING
+SDN,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,20-02-2021,09-03-2021,REPORTING
+IND,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,03-01-2021,16-01-2021,REPORTING
+HND,North America,NA,SII - Covishield,Covishield,Serum Institute of India,04-03-2021,22-05-2021,REPORTING
+ATG,North America,NA,SII - Covishield,Covishield,Serum Institute of India,05-04-2021,12-07-2021,REPORTING
+GNB,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,0,02-04-2021,REPORTING
+NPL,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,15-01-2021,27-01-2021,REPORTING
+SLB,Oceania,OC,SII - Covishield,Covishield,Serum Institute of India,22-02-2021,23-03-2021,REPORTING
+PAK,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,20-01-2021,03-02-2021,REPORTING
+SYC,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,0,10-01-2021,REPORTING
+GTM,North America,NA,SII - Covishield,Covishield,Serum Institute of India,18-02-2021,03-03-2021,REPORTING
+ALB,Europe,EU,SII - Covishield,Covishield,Serum Institute of India,0,21-04-2021,REPORTING
+VCT,North America,NA,SII - Covishield,Covishield,Serum Institute of India,11-02-2021,14-02-2021,REPORTING
+CAF,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,26-02-2021,19-03-2021,REPORTING
+KEN,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,0,05-03-2021,REPORTING
+BOL,South America,SA,SII - Covishield,Covishield,Serum Institute of India,0,0,REPORTING
+MWI,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,0,11-03-2021,REPORTING
+CAN,North America,NA,SII - Covishield,Covishield,Serum Institute of India,0,0,REPORTING
+LBR,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,15-03-2021,01-04-2021,REPORTING
+BRA,South America,SA,SII - Covishield,Covishield,Serum Institute of India,17-01-2021,17-01-2021,REPORTING
+ARG,South America,SA,SII - Covishield,Covishield,Serum Institute of India,30-12-2020,21-02-2021,REPORTING
+SEN,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,16-02-2021,23-02-2021,REPORTING
+COD,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,26-02-2021,19-04-2021,REPORTING
+NRU,Oceania,OC,SII - Covishield,Covishield,Serum Institute of India,02-03-2021,01-06-2021,REPORTING
+SOM,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,22-02-2021,16-03-2021,REPORTING
+ARE,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,0,0,REPORTING
+NAM,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,05-03-2021,19-03-2021,REPORTING
+SWZ,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,0,19-03-2021,REPORTING
+AFG,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,23-02-2021,22-02-2021,REPORTING
+COM,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,0,10-04-2021,REPORTING
+BHR,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,0,25-12-2020,REPORTING
+GUY,South America,SA,SII - Covishield,Covishield,Serum Institute of India,0,11-02-2021,REPORTING
+BWA,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,26-02-2021,26-03-2021,REPORTING
+COG,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,03-03-2021,23-03-2021,REPORTING
+SLE,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,04-03-2021,15-03-2021,REPORTING
+MUS,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,21-01-2021,26-01-2021,REPORTING
+MOZ,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,04-03-2021,08-03-2021,REPORTING
+UGA,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,0,10-03-2021,REPORTING
+TTO,North America,NA,SII - Covishield,Covishield,Serum Institute of India,15-02-2021,17-02-2021,REPORTING
+JAM,North America,NA,SII - Covishield,Covishield,Serum Institute of India,15-02-2021,10-03-2021,REPORTING
+GRD,North America,NA,SII - Covishield,Covishield,Serum Institute of India,12-02-2021,15-02-2021,REPORTING
+DMA,North America,NA,SII - Covishield,Covishield,Serum Institute of India,09-02-2021,12-02-2021,REPORTING
+TJK,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,0,24-03-2021,REPORTING
+KHM,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,12-02-2021,04-03-2021,REPORTING
+THA,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,21-01-2021,16-03-2021,REPORTING
+TLS,Sin Determinar,Z9,SII - Covishield,Covishield,Serum Institute of India,23-02-2021,07-04-2021,REPORTING
+DJI,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,22-02-2021,15-03-2021,REPORTING
+KNA,North America,NA,SII - Covishield,Covishield,Serum Institute of India,29-01-2021,22-02-2021,REPORTING
+BEN,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,24-02-2021,29-03-2021,REPORTING
+MRT,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,0,26-03-2021,REPORTING
+UKR,Europe,EU,SII - Covishield,Covishield,Serum Institute of India,0,24-02-2021,REPORTING
+NGA,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,04-03-2021,05-03-2021,REPORTING
+YEM,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,27-02-2021,20-04-2021,REPORTING
+CPV,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,25-02-2021,18-03-2021,REPORTING
+LSO,Africa,AF,SII - Covishield,Covishield,Serum Institute of India,25-02-2021,10-03-2021,REPORTING
+MMR,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,20-01-2021,27-01-2021,REPORTING
+OMN,Asia,AS,SII - Covishield,Covishield,Serum Institute of India,0,0,REPORTING
+CUB,North America,NA,Finlay - Soberana Plus,Soberana Plus,Instituto Finlay de Vacunas,0,0,REPORTING
+NIC,North America,NA,Finlay - Soberana Plus,Soberana Plus,Instituto Finlay de Vacunas,0,26-10-2021,REPORTING
+ARM,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,09-02-2022,REPORTING
+YEM,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+OMN,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+PSE,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,25-01-2021,02-02-2021,REPORTING
+DJI,Africa,AF,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+AZE,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,02-03-2022,REPORTING
+LAO,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,01-10-2021,29-09-2021,REPORTING
+JOR,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+IRN,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+SYR,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,03-02-2021,01-04-2021,REPORTING
+VEN,South America,SA,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+LBN,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,16-12-2020,14-02-2021,REPORTING
+PHL,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,20-08-2021,23-08-2021,REPORTING
+PAK,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+SAU,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+SDN,Africa,AF,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+KWT,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+UZB,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,15-12-2021,REPORTING
+NIC,North America,NA,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,25-10-2021,REPORTING
+SOM,Africa,AF,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+ARE,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+BLR,Europe,EU,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,06-10-2021,REPORTING
+QAT,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+LBY,Africa,AF,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+VCT,North America,NA,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+EGY,Africa,AF,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+MAR,Africa,AF,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+TUN,Africa,AF,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,11-01-2021,13-03-2021,REPORTING
+AFG,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+IRQ,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
+BHR,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,03-11-2020,04-11-2020,REPORTING
+SYC,Africa,AF,Julphar - Hayat-Vax,Hayat-Vax,Sin Determinar,0,0,REPORTING
+PRY,South America,SA,Julphar - Hayat-Vax,Hayat-Vax,Sin Determinar,30-12-2020,24-05-2021,REPORTING
+PHL,Asia,AS,Julphar - Hayat-Vax,Hayat-Vax,Sin Determinar,11-08-2021,25-08-2021,REPORTING
+IRN,Asia,AS,Shifa - COVIran Barakat,COVIran Barakat,Sin Determinar,0,0,REPORTING
+MCO,Europe,EU,Novavax - Covavax,Covavax,Sin Determinar,0,30-03-2022,REPORTING
+THA,Asia,AS,SII - Covovax,Covovax,Sin Determinar,27-04-2022,0,REPORTING
+IND,Asia,AS,SII - Covovax,Covovax,Sin Determinar,0,0,REPORTING
+FRA,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,28-09-2022,REPORTING
+LUX,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,14-09-2022,REPORTING
+ITA,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,09-02-2022,REPORTING
+LVA,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,14-09-2022,REPORTING
+AUT,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,10-02-2021,REPORTING
+EST,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,12-10-2022,REPORTING
+PRT,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,31-03-2021,REPORTING
+CZE,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,23-11-2022,REPORTING
+CHE,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,30-12-2020,REPORTING
+FRA,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,Spikevax Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,01-02-2023,REPORTING
+ITA,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,Spikevax Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,14-12-2022,REPORTING
+EST,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,Spikevax Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,18-01-2023,REPORTING
+PRT,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,Spikevax Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,04-08-2021,REPORTING
+CZE,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,Spikevax Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,25-01-2023,REPORTING
+LUX,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,07-09-2022,REPORTING
+HUN,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,07-09-2022,REPORTING
+ITA,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,05-01-2022,REPORTING
+LVA,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,14-09-2022,REPORTING
+GRC,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,28-09-2022,REPORTING
+AUT,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,30-12-2020,REPORTING
+EST,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,28-09-2022,REPORTING
+PRT,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,30-12-2020,REPORTING
+CZE,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,14-09-2022,REPORTING
+CHE,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,13-01-2021,REPORTING
+FRA,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,05-10-2022,REPORTING
+LUX,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,12-10-2022,REPORTING
+AND,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,22-03-2023,REPORTING
+ITA,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,28-09-2022,REPORTING
+LVA,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,05-10-2022,REPORTING
+GRC,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,05-10-2022,REPORTING
+AUT,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,13-01-2021,REPORTING
+ALB,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,29-03-2023,REPORTING
+EST,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,28-09-2022,REPORTING
+PRT,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,10-02-2021,REPORTING
+CZE,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,05-10-2022,REPORTING
+DEU,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron  - Generic,Moderna – Spikevax Bivalent Original/Omicron  - Generic,Sin Determinar,0,14-09-2022,REPORTING
+TJK,Asia,AS,Moderna – Spikevax Bivalent Original/Omicron  - Generic,Moderna – Spikevax Bivalent Original/Omicron  - Generic,Sin Determinar,0,15-03-2023,REPORTING
+SVN,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron  - Generic,Moderna – Spikevax Bivalent Original/Omicron  - Generic,Sin Determinar,0,30-11-2022,REPORTING
+DEU,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,Sin Determinar,0,07-09-2022,REPORTING
+TJK,Asia,AS,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,Sin Determinar,0,19-04-2023,REPORTING
+SVN,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,Sin Determinar,0,03-08-2022,REPORTING
