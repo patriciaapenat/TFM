@@ -51,12 +51,11 @@ El presente repositorio es una réplica de toda nuestra estructura de datos, cua
 
 Este trabajo fue llevado a cabo en el marco del trabajo final del máster de _Business Intelligence and Data Management_ en INESDI en la promoción 2023-2024, el equipo estuvo conformado por:
 
-- [Fabián Ascheri]("https://www.linkedin.com/in/fabian-ascheri-26456a2b/")
-- [Jose Chavarria]("https://www.linkedin.com/in/jose-chavarria-ab911a54/")
+- [Fabián Ascheri](https://www.linkedin.com/in/fabian-ascheri-26456a2b/)
+- [Jose Chavarria](https://www.linkedin.com/in/jose-chavarria-ab911a54/)
 - Amaia Miranda
-- [Patricia Peña]("https://www.linkedin.com/in/patricia-pena-torres/")
-- [Juan Carlos Valcuende]("https://www.linkedin.com/in/juan-carlos-valcuende-alaez-b5952ba1/")
-
+- [Patricia Peña](https://www.linkedin.com/in/patricia-pena-torres/)
+- [Juan Carlos Valcuende](https://www.linkedin.com/in/juan-carlos-valcuende-alaez-b5952ba1/)
 
 ## Referencias
 
