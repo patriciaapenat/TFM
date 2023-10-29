@@ -1,27 +1,27 @@
 PAIS_ISO3,CONTINENTE,ISO_continente,NOMBRE_VACUNA,NOMBRE_TIPO_VACUNA,NOMBRE_COMPAÑIA,FECHA_AUTORIZACION,FECHA_INICIO_VACUNACION,FUENTE_DATOS
-SHN,Africa,AF,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
-GRL,North America,NA,Moderna - mRNA-1273,mRNA-1273,Moderna,0,0,OWID
 FRO,Europe,EU,Moderna - mRNA-1273,mRNA-1273,Moderna,0,0,OWID
 FRO,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,OWID
-BIH,Europe,EU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
-BIH,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,OWID
-BIH,Europe,EU,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,OWID
+SHN,Africa,AF,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
+GRL,North America,NA,Moderna - mRNA-1273,mRNA-1273,Moderna,0,0,OWID
 JEY,Europe,EU,Moderna - mRNA-1273,mRNA-1273,Moderna,0,0,OWID
 JEY,Europe,EU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
 JEY,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,OWID
 GGY,Europe,EU,Moderna - mRNA-1273,mRNA-1273,Moderna,0,0,OWID
 GGY,Europe,EU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
 GGY,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,OWID
-GIB,Europe,EU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
-GIB,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,OWID
 TUR,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,OWID
 TUR,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,OWID
-TUR,Asia,AS,Turkovac,0,0,0,0,OWID
+TUR,Asia,AS,Turkovac,Sin Determinar,Sin Determinar,0,0,OWID
 RUS,Europe,EU,SRCVB - EpiVacCorona,EpiVacCorona,State Research Center of Virology & Biotechnology,0,0,OWID
-FLK,South America,SA,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
+BIH,Europe,EU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
+BIH,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,OWID
+BIH,Europe,EU,Sinovac - CoronaVac,Coronavac,Sinovac,0,0,OWID
 IMN,Europe,EU,Moderna - mRNA-1273,mRNA-1273,Moderna,0,0,OWID
 IMN,Europe,EU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
 IMN,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,OWID
+GIB,Europe,EU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
+GIB,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,OWID
+FLK,South America,SA,AstraZeneca - AZD1222,AZD1222,AstraZeneca,0,0,OWID
 TKM,Asia,AS,Anhui ZL - Zifivax,Zifivax,Anhui Zhifei Longcom Biopharmaceutical,0,24-02-2021,REPORTING
 CHN,Asia,AS,Anhui ZL - Zifivax,Zifivax,Anhui Zhifei Longcom Biopharmaceutical,17-03-2021,17-03-2021,REPORTING
 UZB,Asia,AS,Anhui ZL - Zifivax,Zifivax,Anhui Zhifei Longcom Biopharmaceutical,0,28-04-2021,REPORTING
@@ -89,7 +89,7 @@ HUN,Europe,EU,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute
 TUN,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,11-01-2021,13-03-2021,REPORTING
 MDA,Europe,EU,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,05-05-2021,REPORTING
 AFG,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,0,REPORTING
-SVK,Europe,EU,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,20-01-2021,REPORTING
+SVK,Europe,EU,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,30-06-2021,REPORTING
 MEX,North America,NA,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,09-02-2021,24-02-2021,REPORTING
 TJK,Asia,AS,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,0,18-08-2021,REPORTING
 COG,Africa,AF,Gamaleya - Gam-Covid-Vac,Gam-Covid-Vac,Gamaleya Research Institute,03-03-2021,23-03-2021,REPORTING
@@ -240,7 +240,7 @@ SLV,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,30-12-2020,17
 DOM,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
 LKA,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,09-07-2021,0,REPORTING
 PRY,South America,SA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,30-12-2020,23-03-2021,REPORTING
-NLD,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,06-01-2021,REPORTING
+NLD,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,03-02-2021,REPORTING
 NIC,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,15-02-2021,16-10-2021,REPORTING
 KIR,Oceania,OC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,12-03-2021,26-05-2021,REPORTING
 PNG,Oceania,OC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,18-03-2021,30-03-2021,REPORTING
@@ -256,7 +256,7 @@ SDN,Africa,AF,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,20-02-2021,09-03-202
 NZL,Oceania,OC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,22-07-2021,26-11-2021,REPORTING
 KWT,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,13-12-2020,28-12-2020,REPORTING
 URY,South America,SA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,11-02-2021,17-04-2021,REPORTING
-SVN,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,10-02-2021,REPORTING
+SVN,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,03-03-2021,REPORTING
 SAU,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,10-12-2020,06-01-2021,REPORTING
 VGB,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,11-02-2021,REPORTING
 CZE,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,03-02-2021,REPORTING
@@ -330,7 +330,7 @@ FSM,Oceania,OC,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
 GRD,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,12-02-2021,15-02-2021,REPORTING
 KNA,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
 AZE,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,05-05-2021,REPORTING
-SVK,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,13-01-2021,REPORTING
+SVK,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,03-03-2021,REPORTING
 KOR,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,09-02-2021,26-02-2021,REPORTING
 POL,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,06-01-2021,REPORTING
 BEN,Africa,AF,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
@@ -344,7 +344,7 @@ TKM,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,24-02-2021,REPORTING
 CUW,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,0,REPORTING
 PCN,Sin Determinar,Z9,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,17-05-2021,17-05-2021,REPORTING
 MSR,North America,NA,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,08-02-2021,REPORTING
-IRL,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,30-12-2020,REPORTING
+IRL,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,14-04-2021,REPORTING
 OMN,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,14-02-2021,29-12-2020,REPORTING
 DEU,Europe,EU,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,0,10-02-2021,REPORTING
 VNM,Asia,AS,AstraZeneca - Vaxzevria,Vaxzevria,AstraZeneca,01-02-2021,08-03-2021,REPORTING
@@ -417,7 +417,7 @@ MNG,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,10-01-2021,26-
 CMR,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,19-08-2021,0,REPORTING
 LKA,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,08-05-2021,07-07-2021,REPORTING
 PRY,South America,SA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,12-07-2021,REPORTING
-NLD,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,06-01-2021,REPORTING
+NLD,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,30-12-2020,REPORTING
 NIC,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,31-12-2020,13-10-2021,REPORTING
 MNE,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,05-05-2021,REPORTING
 BGD,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,08-03-2021,21-06-2021,REPORTING
@@ -440,7 +440,7 @@ CHE,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020
 LCA,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
 JPN,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,14-02-2021,17-02-2021,REPORTING
 PRT,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
-SVN,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+SVN,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,03-03-2021,REPORTING
 SAU,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,10-12-2020,06-01-2021,REPORTING
 VGB,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
 KEN,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
@@ -528,11 +528,11 @@ NCL,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,29-12-2020,
 BEN,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
 ZAF,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
 LUX,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,30-12-2020,REPORTING
-NOR,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+NOR,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,30-12-2020,REPORTING
 KNA,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,01-09-2021,01-09-2021,REPORTING
 MHL,Oceania,OC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,11-12-2020,01-10-2021,REPORTING
 AZE,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,09-06-2021,REPORTING
-SVK,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
+SVK,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,03-03-2021,REPORTING
 OMN,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,14-02-2021,29-12-2020,REPORTING
 TLS,Sin Determinar,Z9,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,27-08-2021,27-10-2021,REPORTING
 PSE,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,25-01-2021,02-02-2021,REPORTING
@@ -544,7 +544,7 @@ CPV,Africa,AF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,19-02-2021,1
 KAZ,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,10-11-2021,REPORTING
 CUW,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,24-02-2021,REPORTING
 MSR,North America,NA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,0,REPORTING
-IRL,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,30-12-2020,REPORTING
+IRL,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,07-04-2021,REPORTING
 ARM,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,17-03-2021,REPORTING
 DEU,Europe,EU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,0,23-12-2020,REPORTING
 VNM,Asia,AS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,12-06-2021,01-07-2021,REPORTING
@@ -595,8 +595,8 @@ NPL,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,15-09-2021,19-12-2021,REPORTING
 PAK,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,20-01-2021,03-02-2021,REPORTING
 LCA,North America,NA,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
 JPN,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,21-05-2021,24-05-2021,REPORTING
-PRT,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,23-12-2020,REPORTING
-SVN,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,20-01-2021,REPORTING
+PRT,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,20-01-2021,REPORTING
+SVN,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,03-03-2021,REPORTING
 BMU,North America,NA,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
 LBY,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,24-02-2021,11-04-2021,REPORTING
 EST,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,20-01-2021,REPORTING
@@ -644,7 +644,7 @@ EGY,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,30-12-2020,24-01-2021,REPORTIN
 MAR,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
 KGZ,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,0,15-12-2021,REPORTING
 HUN,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,13-01-2021,REPORTING
-DNK,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,23-12-2020,REPORTING
+DNK,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,16-12-2020,REPORTING
 GRD,North America,NA,Moderna - Spikevax,Spikevax,Moderna,0,23-03-2022,REPORTING
 DMA,North America,NA,Moderna - Spikevax,Spikevax,Moderna,0,10-02-2022,REPORTING
 IDN,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,01-07-2021,25-07-2021,REPORTING
@@ -661,11 +661,11 @@ MYS,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,05-08-2021,0,REPORTING
 LUX,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,20-01-2021,REPORTING
 NOR,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,06-01-2021,REPORTING
 MHL,Oceania,OC,Moderna - Spikevax,Spikevax,Moderna,18-12-2020,29-12-2020,REPORTING
-SVK,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,30-12-2020,REPORTING
+SVK,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,03-03-2021,REPORTING
 USA,North America,NA,Moderna - Spikevax,Spikevax,Moderna,18-12-2020,21-12-2020,REPORTING
 CPV,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
 CUW,North America,NA,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
-IRL,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,30-12-2020,REPORTING
+IRL,Europe,EU,Moderna - Spikevax,Spikevax,Moderna,0,13-10-2021,REPORTING
 OMN,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
 PSE,Asia,AS,Moderna - Spikevax,Spikevax,Moderna,25-01-2021,02-02-2021,REPORTING
 DJI,Africa,AF,Moderna - Spikevax,Spikevax,Moderna,0,0,REPORTING
@@ -752,7 +752,7 @@ CHE,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,23-1
 SDN,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,20-02-2021,09-03-2021,REPORTING
 LCA,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
 PRT,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,30-12-2020,REPORTING
-SVN,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,28-04-2021,REPORTING
+SVN,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,03-03-2021,REPORTING
 SAU,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,10-12-2020,06-01-2021,REPORTING
 VGB,North America,NA,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,0,REPORTING
 CZE,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,03-03-2021,REPORTING
@@ -827,13 +827,13 @@ PSE,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,25-01-20
 DJI,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,22-02-2021,15-03-2021,REPORTING
 MYS,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,15-06-2021,0,REPORTING
 LUX,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,07-04-2021,REPORTING
-NOR,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,03-03-2021,REPORTING
+NOR,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,10-03-2021,REPORTING
 ARM,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,05-05-2021,REPORTING
 DEU,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,21-04-2021,REPORTING
 MDG,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,21-07-2021,0,REPORTING
 YEM,Asia,AS,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,27-02-2021,20-04-2021,REPORTING
 LSO,Africa,AF,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,07-07-2021,0,REPORTING
-IRL,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,30-12-2020,REPORTING
+IRL,Europe,EU,Janssen - Ad26.COV 2-S,Ad26.COV 2-S,Janssen Pharmaceuticals,0,07-04-2021,REPORTING
 ARM,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,31-03-2021,REPORTING
 YEM,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,27-02-2021,20-04-2021,REPORTING
 GEO,Asia,AS,Sinovac - CoronaVac,Coronavac,Sinovac,0,26-05-2021,REPORTING
@@ -903,26 +903,27 @@ PRI,North America,NA,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,0,REPORTING
 DEU,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,23-02-2022,REPORTING
 IRL,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,03-02-2021,REPORTING
 LUX,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,02-03-2022,REPORTING
+NLD,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,16-03-2022,REPORTING
 PHL,Asia,AS,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,0,REPORTING
+SVN,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,31-03-2021,REPORTING
 CZE,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,02-03-2022,REPORTING
 CYP,Asia,AS,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,09-03-2022,REPORTING
 ISL,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,03-08-2022,REPORTING
 CHE,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,20-07-2022,REPORTING
 NZL,Oceania,OC,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,0,REPORTING
-NLD,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,16-03-2022,REPORTING
 CAN,North America,NA,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,0,REPORTING
 MCO,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,30-03-2022,REPORTING
+BEL,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,02-03-2022,REPORTING
 EST,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,09-03-2022,REPORTING
 JPN,Asia,AS,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,0,REPORTING
 PRT,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,20-01-2021,REPORTING
-SVN,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,02-03-2022,REPORTING
 ITA,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,02-02-2022,REPORTING
 HRV,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,02-03-2022,REPORTING
 GLP,North America,NA,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,0,REPORTING
 LVA,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,02-03-2022,REPORTING
 GRC,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,13-10-2021,REPORTING
 AUT,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,23-02-2022,REPORTING
-SVK,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,09-03-2022,REPORTING
+SVK,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,30-03-2022,REPORTING
 USA,North America,NA,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,0,REPORTING
 KOR,Asia,AS,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,0,REPORTING
 POL,Europe,EU,Novavax-NUVAXOVID,NUVAXOVID,Novavax,0,09-06-2021,REPORTING
@@ -1053,49 +1054,51 @@ TUN,Africa,AF,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute
 AFG,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
 IRQ,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,0,0,REPORTING
 BHR,Asia,AS,Gamaleya - Sputnik-Light,Sputnik-Light,Gamaleya Research Institute,03-11-2020,04-11-2020,REPORTING
-SYC,Africa,AF,Julphar - Hayat-Vax,Hayat-Vax,0,0,0,REPORTING
-PRY,South America,SA,Julphar - Hayat-Vax,Hayat-Vax,0,30-12-2020,24-05-2021,REPORTING
-PHL,Asia,AS,Julphar - Hayat-Vax,Hayat-Vax,0,11-08-2021,25-08-2021,REPORTING
-IRN,Asia,AS,Shifa - COVIran Barakat,COVIran Barakat,0,0,0,REPORTING
-MCO,Europe,EU,Novavax - Covavax,Covavax,0,0,30-03-2022,REPORTING
-THA,Asia,AS,SII - Covovax,Covovax,0,27-04-2022,0,REPORTING
-IND,Asia,AS,SII - Covovax,Covovax,0,0,0,REPORTING
-FRA,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,0,0,28-09-2022,REPORTING
-LUX,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,0,0,14-09-2022,REPORTING
-ITA,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,0,0,09-02-2022,REPORTING
-LVA,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,0,0,14-09-2022,REPORTING
-AUT,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,0,0,10-02-2021,REPORTING
-EST,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,0,0,12-10-2022,REPORTING
-PRT,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,0,0,31-03-2021,REPORTING
-CZE,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,0,0,23-11-2022,REPORTING
-CHE,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,0,0,30-12-2020,REPORTING
-FRA,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,Spikevax Bivalent Original/Omicron BA.4/BA.5,0,0,01-02-2023,REPORTING
-ITA,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,Spikevax Bivalent Original/Omicron BA.4/BA.5,0,0,14-12-2022,REPORTING
-EST,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,Spikevax Bivalent Original/Omicron BA.4/BA.5,0,0,18-01-2023,REPORTING
-PRT,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,Spikevax Bivalent Original/Omicron BA.4/BA.5,0,0,04-08-2021,REPORTING
-CZE,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,Spikevax Bivalent Original/Omicron BA.4/BA.5,0,0,25-01-2023,REPORTING
-LUX,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,0,0,07-09-2022,REPORTING
-HUN,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,0,0,07-09-2022,REPORTING
-ITA,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,0,0,05-01-2022,REPORTING
-LVA,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,0,0,14-09-2022,REPORTING
-GRC,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,0,0,28-09-2022,REPORTING
-AUT,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,0,0,30-12-2020,REPORTING
-EST,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,0,0,28-09-2022,REPORTING
-PRT,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,0,0,30-12-2020,REPORTING
-CZE,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,0,0,14-09-2022,REPORTING
-CHE,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,0,0,13-01-2021,REPORTING
-FRA,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,05-10-2022,REPORTING
-LUX,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,12-10-2022,REPORTING
-AND,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,22-03-2023,REPORTING
-ITA,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,28-09-2022,REPORTING
-LVA,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,05-10-2022,REPORTING
-GRC,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,05-10-2022,REPORTING
-AUT,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,13-01-2021,REPORTING
-ALB,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,29-03-2023,REPORTING
-EST,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,28-09-2022,REPORTING
-PRT,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,10-02-2021,REPORTING
-CZE,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,0,0,05-10-2022,REPORTING
-DEU,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron  - Generic,Moderna – Spikevax Bivalent Original/Omicron  - Generic,0,0,14-09-2022,REPORTING
-SVN,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron  - Generic,Moderna – Spikevax Bivalent Original/Omicron  - Generic,0,0,21-12-2022,REPORTING
-DEU,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,0,0,07-09-2022,REPORTING
-SVN,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,0,0,21-09-2022,REPORTING
+SYC,Africa,AF,Julphar - Hayat-Vax,Hayat-Vax,Sin Determinar,0,0,REPORTING
+PRY,South America,SA,Julphar - Hayat-Vax,Hayat-Vax,Sin Determinar,30-12-2020,24-05-2021,REPORTING
+PHL,Asia,AS,Julphar - Hayat-Vax,Hayat-Vax,Sin Determinar,11-08-2021,25-08-2021,REPORTING
+IRN,Asia,AS,Shifa - COVIran Barakat,COVIran Barakat,Sin Determinar,0,0,REPORTING
+MCO,Europe,EU,Novavax - Covavax,Covavax,Sin Determinar,0,30-03-2022,REPORTING
+THA,Asia,AS,SII - Covovax,Covovax,Sin Determinar,27-04-2022,0,REPORTING
+IND,Asia,AS,SII - Covovax,Covovax,Sin Determinar,0,0,REPORTING
+FRA,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,28-09-2022,REPORTING
+LUX,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,14-09-2022,REPORTING
+ITA,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,09-02-2022,REPORTING
+LVA,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,14-09-2022,REPORTING
+AUT,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,10-02-2021,REPORTING
+EST,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,12-10-2022,REPORTING
+PRT,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,31-03-2021,REPORTING
+CZE,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,23-11-2022,REPORTING
+CHE,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.1,Spikevax Bivalent Original/Omicron BA.1,Sin Determinar,0,30-12-2020,REPORTING
+FRA,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,Spikevax Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,01-02-2023,REPORTING
+ITA,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,Spikevax Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,14-12-2022,REPORTING
+EST,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,Spikevax Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,18-01-2023,REPORTING
+PRT,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,Spikevax Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,04-08-2021,REPORTING
+CZE,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron BA.4/BA.5,Spikevax Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,25-01-2023,REPORTING
+LUX,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,07-09-2022,REPORTING
+HUN,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,07-09-2022,REPORTING
+ITA,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,05-01-2022,REPORTING
+LVA,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,14-09-2022,REPORTING
+GRC,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,28-09-2022,REPORTING
+AUT,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,30-12-2020,REPORTING
+EST,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,28-09-2022,REPORTING
+PRT,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,30-12-2020,REPORTING
+CZE,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,14-09-2022,REPORTING
+CHE,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.1,Comirnaty Bivalent Original/Omicron BA.1,Sin Determinar,0,13-01-2021,REPORTING
+FRA,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,05-10-2022,REPORTING
+LUX,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,12-10-2022,REPORTING
+AND,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,22-03-2023,REPORTING
+ITA,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,28-09-2022,REPORTING
+LVA,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,05-10-2022,REPORTING
+GRC,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,05-10-2022,REPORTING
+AUT,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,13-01-2021,REPORTING
+ALB,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,29-03-2023,REPORTING
+EST,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,28-09-2022,REPORTING
+PRT,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,10-02-2021,REPORTING
+CZE,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron BA.4/BA.5,Comirnaty Bivalent Original/Omicron BA.4/BA.5,Sin Determinar,0,05-10-2022,REPORTING
+DEU,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron  - Generic,Moderna – Spikevax Bivalent Original/Omicron  - Generic,Sin Determinar,0,14-09-2022,REPORTING
+TJK,Asia,AS,Moderna – Spikevax Bivalent Original/Omicron  - Generic,Moderna – Spikevax Bivalent Original/Omicron  - Generic,Sin Determinar,0,15-03-2023,REPORTING
+SVN,Europe,EU,Moderna – Spikevax Bivalent Original/Omicron  - Generic,Moderna – Spikevax Bivalent Original/Omicron  - Generic,Sin Determinar,0,30-11-2022,REPORTING
+DEU,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,Sin Determinar,0,07-09-2022,REPORTING
+TJK,Asia,AS,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,Sin Determinar,0,19-04-2023,REPORTING
+SVN,Europe,EU,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,Pfizer BioNTech - Comirnaty Bivalent Original/Omicron - Generic,Sin Determinar,0,03-08-2022,REPORTING
