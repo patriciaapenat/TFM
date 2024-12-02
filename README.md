@@ -1,3 +1,12 @@
+<p align="left">
+  <a href="https://www.python.org/"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg" alt="Made with Python" height="40"/></a>
+  <a href="https://jupyter.org/try"><img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" alt="Made with Jupyter" height="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Made%20with-MySQL-blue?style=for-the-badge&logo=MySQL" alt="Made with MySQL" height="40"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Made%20with-Azure-blueviolet?style=for-the-badge&logo=Microsoft-Azure" alt="Made with Azure" height="40"/></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Made%20with-PowerBI-yellow?style=for-the-badge&logo=Power-BI" alt="Made with Power BI" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Made%20with-Excel-green?style=for-the-badge&logo=Microsoft-Excel" alt="Made with Excel" height="40"/></a>
+</p>
+
 # Covid-19, un análisis de casos y su correlación con vacunación, indicadores de desarrollo y variables ambientales
 
 Se han utilizado varias fuentes de datos de acceso abierto para recopilar información esencial relacionada con la pandemia de COVID-19.
@@ -18,28 +27,6 @@ Finalmente, todo esto se tradujo en una serie de Dashboards elaborados en Power 
 
 El presente repositorio es una réplica de toda nuestra estructura de datos, cuadernos de trabajo, dashboards y documentación de cada etapa del proceso.
 
-
-<h3 align="left">Tecnologías utilizadas:</h3>
-<p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" alt="Jupyter Notebook" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest/scale-to-width-down/1200?cb=20200213050332" alt="Power BI" width="40" height="40"/>
-  </a>
-</p>
 
 ## Créditos
 
